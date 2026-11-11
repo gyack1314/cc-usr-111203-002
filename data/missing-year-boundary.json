@@ -1,0 +1,5859 @@
+{
+  "daily": [
+    {
+      "day": "2018-01-01",
+      "temperature": 20.0
+    },
+    {
+      "day": "2018-01-02",
+      "temperature": 20.069
+    },
+    {
+      "day": "2018-01-03",
+      "temperature": 20.138
+    },
+    {
+      "day": "2018-01-04",
+      "temperature": 20.206
+    },
+    {
+      "day": "2018-01-05",
+      "temperature": 20.275
+    },
+    {
+      "day": "2018-01-06",
+      "temperature": 20.344
+    },
+    {
+      "day": "2018-01-07",
+      "temperature": 20.412
+    },
+    {
+      "day": "2018-01-08",
+      "temperature": 20.481
+    },
+    {
+      "day": "2018-01-09",
+      "temperature": 20.549
+    },
+    {
+      "day": "2018-01-10",
+      "temperature": 20.617
+    },
+    {
+      "day": "2018-01-11",
+      "temperature": 20.685
+    },
+    {
+      "day": "2018-01-12",
+      "temperature": 20.753
+    },
+    {
+      "day": "2018-01-13",
+      "temperature": 20.82
+    },
+    {
+      "day": "2018-01-14",
+      "temperature": 20.888
+    },
+    {
+      "day": "2018-01-15",
+      "temperature": 20.955
+    },
+    {
+      "day": "2018-01-16",
+      "temperature": 21.021
+    },
+    {
+      "day": "2018-01-17",
+      "temperature": 21.088
+    },
+    {
+      "day": "2018-01-18",
+      "temperature": 21.154
+    },
+    {
+      "day": "2018-01-19",
+      "temperature": 21.22
+    },
+    {
+      "day": "2018-01-20",
+      "temperature": 21.285
+    },
+    {
+      "day": "2018-01-21",
+      "temperature": 21.35
+    },
+    {
+      "day": "2018-01-22",
+      "temperature": 21.415
+    },
+    {
+      "day": "2018-01-23",
+      "temperature": 21.479
+    },
+    {
+      "day": "2018-01-24",
+      "temperature": 21.543
+    },
+    {
+      "day": "2018-01-25",
+      "temperature": 21.606
+    },
+    {
+      "day": "2018-01-26",
+      "temperature": 21.669
+    },
+    {
+      "day": "2018-01-27",
+      "temperature": 21.731
+    },
+    {
+      "day": "2018-01-28",
+      "temperature": 21.793
+    },
+    {
+      "day": "2018-01-29",
+      "temperature": 21.854
+    },
+    {
+      "day": "2018-01-30",
+      "temperature": 21.915
+    },
+    {
+      "day": "2018-01-31",
+      "temperature": 21.975
+    },
+    {
+      "day": "2018-02-01",
+      "temperature": 22.035
+    },
+    {
+      "day": "2018-02-02",
+      "temperature": 22.094
+    },
+    {
+      "day": "2018-02-03",
+      "temperature": 22.152
+    },
+    {
+      "day": "2018-02-04",
+      "temperature": 22.21
+    },
+    {
+      "day": "2018-02-05",
+      "temperature": 22.267
+    },
+    {
+      "day": "2018-02-06",
+      "temperature": 22.323
+    },
+    {
+      "day": "2018-02-07",
+      "temperature": 22.379
+    },
+    {
+      "day": "2018-02-08",
+      "temperature": 22.434
+    },
+    {
+      "day": "2018-02-09",
+      "temperature": 22.488
+    },
+    {
+      "day": "2018-02-10",
+      "temperature": 22.542
+    },
+    {
+      "day": "2018-02-11",
+      "temperature": 22.595
+    },
+    {
+      "day": "2018-02-12",
+      "temperature": 22.647
+    },
+    {
+      "day": "2018-02-13",
+      "temperature": 22.698
+    },
+    {
+      "day": "2018-02-14",
+      "temperature": 22.748
+    },
+    {
+      "day": "2018-02-15",
+      "temperature": 22.798
+    },
+    {
+      "day": "2018-02-16",
+      "temperature": 22.847
+    },
+    {
+      "day": "2018-02-17",
+      "temperature": 22.895
+    },
+    {
+      "day": "2018-02-18",
+      "temperature": 22.942
+    },
+    {
+      "day": "2018-02-19",
+      "temperature": 22.988
+    },
+    {
+      "day": "2018-02-20",
+      "temperature": 23.033
+    },
+    {
+      "day": "2018-02-21",
+      "temperature": 23.078
+    },
+    {
+      "day": "2018-02-22",
+      "temperature": 23.121
+    },
+    {
+      "day": "2018-02-23",
+      "temperature": 23.164
+    },
+    {
+      "day": "2018-02-24",
+      "temperature": 23.205
+    },
+    {
+      "day": "2018-02-25",
+      "temperature": 23.246
+    },
+    {
+      "day": "2018-02-26",
+      "temperature": 23.286
+    },
+    {
+      "day": "2018-02-27",
+      "temperature": 23.325
+    },
+    {
+      "day": "2018-02-28",
+      "temperature": 23.362
+    },
+    {
+      "day": "2018-03-01",
+      "temperature": 23.399
+    },
+    {
+      "day": "2018-03-02",
+      "temperature": 23.435
+    },
+    {
+      "day": "2018-03-03",
+      "temperature": 23.47
+    },
+    {
+      "day": "2018-03-04",
+      "temperature": 23.504
+    },
+    {
+      "day": "2018-03-05",
+      "temperature": 23.536
+    },
+    {
+      "day": "2018-03-06",
+      "temperature": 23.568
+    },
+    {
+      "day": "2018-03-07",
+      "temperature": 23.599
+    },
+    {
+      "day": "2018-03-08",
+      "temperature": 23.628
+    },
+    {
+      "day": "2018-03-09",
+      "temperature": 23.657
+    },
+    {
+      "day": "2018-03-10",
+      "temperature": 23.684
+    },
+    {
+      "day": "2018-03-11",
+      "temperature": 23.71
+    },
+    {
+      "day": "2018-03-12",
+      "temperature": 23.735
+    },
+    {
+      "day": "2018-03-13",
+      "temperature": 23.759
+    },
+    {
+      "day": "2018-03-14",
+      "temperature": 23.782
+    },
+    {
+      "day": "2018-03-15",
+      "temperature": 23.804
+    },
+    {
+      "day": "2018-03-16",
+      "temperature": 23.825
+    },
+    {
+      "day": "2018-03-17",
+      "temperature": 23.845
+    },
+    {
+      "day": "2018-03-18",
+      "temperature": 23.863
+    },
+    {
+      "day": "2018-03-19",
+      "temperature": 23.88
+    },
+    {
+      "day": "2018-03-20",
+      "temperature": 23.896
+    },
+    {
+      "day": "2018-03-21",
+      "temperature": 23.911
+    },
+    {
+      "day": "2018-03-22",
+      "temperature": 23.925
+    },
+    {
+      "day": "2018-03-23",
+      "temperature": 23.938
+    },
+    {
+      "day": "2018-03-24",
+      "temperature": 23.949
+    },
+    {
+      "day": "2018-03-25",
+      "temperature": 23.96
+    },
+    {
+      "day": "2018-03-26",
+      "temperature": 23.969
+    },
+    {
+      "day": "2018-03-27",
+      "temperature": 23.977
+    },
+    {
+      "day": "2018-03-28",
+      "temperature": 23.984
+    },
+    {
+      "day": "2018-03-29",
+      "temperature": 23.989
+    },
+    {
+      "day": "2018-03-30",
+      "temperature": 23.994
+    },
+    {
+      "day": "2018-03-31",
+      "temperature": 23.997
+    },
+    {
+      "day": "2018-04-01",
+      "temperature": 23.999
+    },
+    {
+      "day": "2018-04-02",
+      "temperature": 24.0
+    },
+    {
+      "day": "2018-04-03",
+      "temperature": 24.0
+    },
+    {
+      "day": "2018-04-04",
+      "temperature": 23.998
+    },
+    {
+      "day": "2018-04-05",
+      "temperature": 23.996
+    },
+    {
+      "day": "2018-04-06",
+      "temperature": 23.992
+    },
+    {
+      "day": "2018-04-07",
+      "temperature": 23.987
+    },
+    {
+      "day": "2018-04-08",
+      "temperature": 23.98
+    },
+    {
+      "day": "2018-04-09",
+      "temperature": 23.973
+    },
+    {
+      "day": "2018-04-10",
+      "temperature": 23.964
+    },
+    {
+      "day": "2018-04-11",
+      "temperature": 23.955
+    },
+    {
+      "day": "2018-04-12",
+      "temperature": 23.944
+    },
+    {
+      "day": "2018-04-13",
+      "temperature": 23.932
+    },
+    {
+      "day": "2018-04-14",
+      "temperature": 23.918
+    },
+    {
+      "day": "2018-04-15",
+      "temperature": 23.904
+    },
+    {
+      "day": "2018-04-16",
+      "temperature": 23.888
+    },
+    {
+      "day": "2018-04-17",
+      "temperature": 23.872
+    },
+    {
+      "day": "2018-04-18",
+      "temperature": 23.854
+    },
+    {
+      "day": "2018-04-19",
+      "temperature": 23.835
+    },
+    {
+      "day": "2018-04-20",
+      "temperature": 23.815
+    },
+    {
+      "day": "2018-04-21",
+      "temperature": 23.793
+    },
+    {
+      "day": "2018-04-22",
+      "temperature": 23.771
+    },
+    {
+      "day": "2018-04-23",
+      "temperature": 23.748
+    },
+    {
+      "day": "2018-04-24",
+      "temperature": 23.723
+    },
+    {
+      "day": "2018-04-25",
+      "temperature": 23.697
+    },
+    {
+      "day": "2018-04-26",
+      "temperature": 23.67
+    },
+    {
+      "day": "2018-04-27",
+      "temperature": 23.642
+    },
+    {
+      "day": "2018-04-28",
+      "temperature": 23.613
+    },
+    {
+      "day": "2018-04-29",
+      "temperature": 23.583
+    },
+    {
+      "day": "2018-04-30",
+      "temperature": 23.552
+    },
+    {
+      "day": "2018-05-01",
+      "temperature": 23.52
+    },
+    {
+      "day": "2018-05-02",
+      "temperature": 23.487
+    },
+    {
+      "day": "2018-05-03",
+      "temperature": 23.453
+    },
+    {
+      "day": "2018-05-04",
+      "temperature": 23.417
+    },
+    {
+      "day": "2018-05-05",
+      "temperature": 23.381
+    },
+    {
+      "day": "2018-05-06",
+      "temperature": 23.344
+    },
+    {
+      "day": "2018-05-07",
+      "temperature": 23.305
+    },
+    {
+      "day": "2018-05-08",
+      "temperature": 23.266
+    },
+    {
+      "day": "2018-05-09",
+      "temperature": 23.226
+    },
+    {
+      "day": "2018-05-10",
+      "temperature": 23.185
+    },
+    {
+      "day": "2018-05-11",
+      "temperature": 23.143
+    },
+    {
+      "day": "2018-05-12",
+      "temperature": 23.1
+    },
+    {
+      "day": "2018-05-13",
+      "temperature": 23.056
+    },
+    {
+      "day": "2018-05-14",
+      "temperature": 23.011
+    },
+    {
+      "day": "2018-05-15",
+      "temperature": 22.965
+    },
+    {
+      "day": "2018-05-16",
+      "temperature": 22.918
+    },
+    {
+      "day": "2018-05-17",
+      "temperature": 22.871
+    },
+    {
+      "day": "2018-05-18",
+      "temperature": 22.822
+    },
+    {
+      "day": "2018-05-19",
+      "temperature": 22.773
+    },
+    {
+      "day": "2018-05-20",
+      "temperature": 22.723
+    },
+    {
+      "day": "2018-05-21",
+      "temperature": 22.672
+    },
+    {
+      "day": "2018-05-22",
+      "temperature": 22.621
+    },
+    {
+      "day": "2018-05-23",
+      "temperature": 22.568
+    },
+    {
+      "day": "2018-05-24",
+      "temperature": 22.515
+    },
+    {
+      "day": "2018-05-25",
+      "temperature": 22.461
+    },
+    {
+      "day": "2018-05-26",
+      "temperature": 22.406
+    },
+    {
+      "day": "2018-05-27",
+      "temperature": 22.351
+    },
+    {
+      "day": "2018-05-28",
+      "temperature": 22.295
+    },
+    {
+      "day": "2018-05-29",
+      "temperature": 22.238
+    },
+    {
+      "day": "2018-05-30",
+      "temperature": 22.181
+    },
+    {
+      "day": "2018-05-31",
+      "temperature": 22.123
+    },
+    {
+      "day": "2018-06-01",
+      "temperature": 22.064
+    },
+    {
+      "day": "2018-06-02",
+      "temperature": 22.005
+    },
+    {
+      "day": "2018-06-03",
+      "temperature": 21.945
+    },
+    {
+      "day": "2018-06-04",
+      "temperature": 21.885
+    },
+    {
+      "day": "2018-06-05",
+      "temperature": 21.824
+    },
+    {
+      "day": "2018-06-06",
+      "temperature": 21.762
+    },
+    {
+      "day": "2018-06-07",
+      "temperature": 21.7
+    },
+    {
+      "day": "2018-06-08",
+      "temperature": 21.637
+    },
+    {
+      "day": "2018-06-09",
+      "temperature": 21.574
+    },
+    {
+      "day": "2018-06-10",
+      "temperature": 21.511
+    },
+    {
+      "day": "2018-06-11",
+      "temperature": 21.447
+    },
+    {
+      "day": "2018-06-12",
+      "temperature": 21.382
+    },
+    {
+      "day": "2018-06-13",
+      "temperature": 21.318
+    },
+    {
+      "day": "2018-06-14",
+      "temperature": 21.252
+    },
+    {
+      "day": "2018-06-15",
+      "temperature": 21.187
+    },
+    {
+      "day": "2018-06-16",
+      "temperature": 21.121
+    },
+    {
+      "day": "2018-06-17",
+      "temperature": 21.055
+    },
+    {
+      "day": "2018-06-18",
+      "temperature": 20.988
+    },
+    {
+      "day": "2018-06-19",
+      "temperature": 20.921
+    },
+    {
+      "day": "2018-06-20",
+      "temperature": 20.854
+    },
+    {
+      "day": "2018-06-21",
+      "temperature": 20.787
+    },
+    {
+      "day": "2018-06-22",
+      "temperature": 20.719
+    },
+    {
+      "day": "2018-06-23",
+      "temperature": 20.651
+    },
+    {
+      "day": "2018-06-24",
+      "temperature": 20.583
+    },
+    {
+      "day": "2018-06-25",
+      "temperature": 20.515
+    },
+    {
+      "day": "2018-06-26",
+      "temperature": 20.447
+    },
+    {
+      "day": "2018-06-27",
+      "temperature": 20.378
+    },
+    {
+      "day": "2018-06-28",
+      "temperature": 20.31
+    },
+    {
+      "day": "2018-06-29",
+      "temperature": 20.241
+    },
+    {
+      "day": "2018-06-30",
+      "temperature": 20.172
+    },
+    {
+      "day": "2018-07-01",
+      "temperature": 20.103
+    },
+    {
+      "day": "2018-07-02",
+      "temperature": 20.034
+    },
+    {
+      "day": "2018-07-03",
+      "temperature": 19.966
+    },
+    {
+      "day": "2018-07-04",
+      "temperature": 19.897
+    },
+    {
+      "day": "2018-07-05",
+      "temperature": 19.828
+    },
+    {
+      "day": "2018-07-06",
+      "temperature": 19.759
+    },
+    {
+      "day": "2018-07-07",
+      "temperature": 19.69
+    },
+    {
+      "day": "2018-07-08",
+      "temperature": 19.622
+    },
+    {
+      "day": "2018-07-09",
+      "temperature": 19.553
+    },
+    {
+      "day": "2018-07-10",
+      "temperature": 19.485
+    },
+    {
+      "day": "2018-07-11",
+      "temperature": 19.417
+    },
+    {
+      "day": "2018-07-12",
+      "temperature": 19.349
+    },
+    {
+      "day": "2018-07-13",
+      "temperature": 19.281
+    },
+    {
+      "day": "2018-07-14",
+      "temperature": 19.213
+    },
+    {
+      "day": "2018-07-15",
+      "temperature": 19.146
+    },
+    {
+      "day": "2018-07-16",
+      "temperature": 19.079
+    },
+    {
+      "day": "2018-07-17",
+      "temperature": 19.012
+    },
+    {
+      "day": "2018-07-18",
+      "temperature": 18.945
+    },
+    {
+      "day": "2018-07-19",
+      "temperature": 18.879
+    },
+    {
+      "day": "2018-07-20",
+      "temperature": 18.813
+    },
+    {
+      "day": "2018-07-21",
+      "temperature": 18.748
+    },
+    {
+      "day": "2018-07-22",
+      "temperature": 18.682
+    },
+    {
+      "day": "2018-07-23",
+      "temperature": 18.618
+    },
+    {
+      "day": "2018-07-24",
+      "temperature": 18.553
+    },
+    {
+      "day": "2018-07-25",
+      "temperature": 18.489
+    },
+    {
+      "day": "2018-07-26",
+      "temperature": 18.426
+    },
+    {
+      "day": "2018-07-27",
+      "temperature": 18.363
+    },
+    {
+      "day": "2018-07-28",
+      "temperature": 18.3
+    },
+    {
+      "day": "2018-07-29",
+      "temperature": 18.238
+    },
+    {
+      "day": "2018-07-30",
+      "temperature": 18.176
+    },
+    {
+      "day": "2018-07-31",
+      "temperature": 18.115
+    },
+    {
+      "day": "2018-08-01",
+      "temperature": 18.055
+    },
+    {
+      "day": "2018-08-02",
+      "temperature": 17.995
+    },
+    {
+      "day": "2018-08-03",
+      "temperature": 17.936
+    },
+    {
+      "day": "2018-08-04",
+      "temperature": 17.877
+    },
+    {
+      "day": "2018-08-05",
+      "temperature": 17.819
+    },
+    {
+      "day": "2018-08-06",
+      "temperature": 17.762
+    },
+    {
+      "day": "2018-08-07",
+      "temperature": 17.705
+    },
+    {
+      "day": "2018-08-08",
+      "temperature": 17.649
+    },
+    {
+      "day": "2018-08-09",
+      "temperature": 17.594
+    },
+    {
+      "day": "2018-08-10",
+      "temperature": 17.539
+    },
+    {
+      "day": "2018-08-11",
+      "temperature": 17.485
+    },
+    {
+      "day": "2018-08-12",
+      "temperature": 17.432
+    },
+    {
+      "day": "2018-08-13",
+      "temperature": 17.379
+    },
+    {
+      "day": "2018-08-14",
+      "temperature": 17.328
+    },
+    {
+      "day": "2018-08-15",
+      "temperature": 17.277
+    },
+    {
+      "day": "2018-08-16",
+      "temperature": 17.227
+    },
+    {
+      "day": "2018-08-17",
+      "temperature": 17.178
+    },
+    {
+      "day": "2018-08-18",
+      "temperature": 17.129
+    },
+    {
+      "day": "2018-08-19",
+      "temperature": 17.082
+    },
+    {
+      "day": "2018-08-20",
+      "temperature": 17.035
+    },
+    {
+      "day": "2018-08-21",
+      "temperature": 16.989
+    },
+    {
+      "day": "2018-08-22",
+      "temperature": 16.944
+    },
+    {
+      "day": "2018-08-23",
+      "temperature": 16.9
+    },
+    {
+      "day": "2018-08-24",
+      "temperature": 16.857
+    },
+    {
+      "day": "2018-08-25",
+      "temperature": 16.815
+    },
+    {
+      "day": "2018-08-26",
+      "temperature": 16.774
+    },
+    {
+      "day": "2018-08-27",
+      "temperature": 16.734
+    },
+    {
+      "day": "2018-08-28",
+      "temperature": 16.695
+    },
+    {
+      "day": "2018-08-29",
+      "temperature": 16.656
+    },
+    {
+      "day": "2018-08-30",
+      "temperature": 16.619
+    },
+    {
+      "day": "2018-08-31",
+      "temperature": 16.583
+    },
+    {
+      "day": "2018-09-01",
+      "temperature": 16.547
+    },
+    {
+      "day": "2018-09-02",
+      "temperature": 16.513
+    },
+    {
+      "day": "2018-09-03",
+      "temperature": 16.48
+    },
+    {
+      "day": "2018-09-04",
+      "temperature": 16.448
+    },
+    {
+      "day": "2018-09-05",
+      "temperature": 16.417
+    },
+    {
+      "day": "2018-09-06",
+      "temperature": 16.387
+    },
+    {
+      "day": "2018-09-07",
+      "temperature": 16.358
+    },
+    {
+      "day": "2018-09-08",
+      "temperature": 16.33
+    },
+    {
+      "day": "2018-09-09",
+      "temperature": 16.303
+    },
+    {
+      "day": "2018-09-10",
+      "temperature": 16.277
+    },
+    {
+      "day": "2018-09-11",
+      "temperature": 16.252
+    },
+    {
+      "day": "2018-09-12",
+      "temperature": 16.229
+    },
+    {
+      "day": "2018-09-13",
+      "temperature": 16.207
+    },
+    {
+      "day": "2018-09-14",
+      "temperature": 16.185
+    },
+    {
+      "day": "2018-09-15",
+      "temperature": 16.165
+    },
+    {
+      "day": "2018-09-16",
+      "temperature": 16.146
+    },
+    {
+      "day": "2018-09-17",
+      "temperature": 16.128
+    },
+    {
+      "day": "2018-09-18",
+      "temperature": 16.112
+    },
+    {
+      "day": "2018-09-19",
+      "temperature": 16.096
+    },
+    {
+      "day": "2018-09-20",
+      "temperature": 16.082
+    },
+    {
+      "day": "2018-09-21",
+      "temperature": 16.068
+    },
+    {
+      "day": "2018-09-22",
+      "temperature": 16.056
+    },
+    {
+      "day": "2018-09-23",
+      "temperature": 16.045
+    },
+    {
+      "day": "2018-09-24",
+      "temperature": 16.036
+    },
+    {
+      "day": "2018-09-25",
+      "temperature": 16.027
+    },
+    {
+      "day": "2018-09-26",
+      "temperature": 16.02
+    },
+    {
+      "day": "2018-09-27",
+      "temperature": 16.013
+    },
+    {
+      "day": "2018-09-28",
+      "temperature": 16.008
+    },
+    {
+      "day": "2018-09-29",
+      "temperature": 16.004
+    },
+    {
+      "day": "2018-09-30",
+      "temperature": 16.002
+    },
+    {
+      "day": "2018-10-01",
+      "temperature": 16.0
+    },
+    {
+      "day": "2018-10-02",
+      "temperature": 16.0
+    },
+    {
+      "day": "2018-10-03",
+      "temperature": 16.001
+    },
+    {
+      "day": "2018-10-04",
+      "temperature": 16.003
+    },
+    {
+      "day": "2018-10-05",
+      "temperature": 16.006
+    },
+    {
+      "day": "2018-10-06",
+      "temperature": 16.011
+    },
+    {
+      "day": "2018-10-07",
+      "temperature": 16.016
+    },
+    {
+      "day": "2018-10-08",
+      "temperature": 16.023
+    },
+    {
+      "day": "2018-10-09",
+      "temperature": 16.031
+    },
+    {
+      "day": "2018-10-10",
+      "temperature": 16.04
+    },
+    {
+      "day": "2018-10-11",
+      "temperature": 16.051
+    },
+    {
+      "day": "2018-10-12",
+      "temperature": 16.062
+    },
+    {
+      "day": "2018-10-13",
+      "temperature": 16.075
+    },
+    {
+      "day": "2018-10-14",
+      "temperature": 16.089
+    },
+    {
+      "day": "2018-10-15",
+      "temperature": 16.104
+    },
+    {
+      "day": "2018-10-16",
+      "temperature": 16.12
+    },
+    {
+      "day": "2018-10-17",
+      "temperature": 16.137
+    },
+    {
+      "day": "2018-10-18",
+      "temperature": 16.155
+    },
+    {
+      "day": "2018-10-19",
+      "temperature": 16.175
+    },
+    {
+      "day": "2018-10-20",
+      "temperature": 16.196
+    },
+    {
+      "day": "2018-10-21",
+      "temperature": 16.218
+    },
+    {
+      "day": "2018-10-22",
+      "temperature": 16.241
+    },
+    {
+      "day": "2018-10-23",
+      "temperature": 16.265
+    },
+    {
+      "day": "2018-10-24",
+      "temperature": 16.29
+    },
+    {
+      "day": "2018-10-25",
+      "temperature": 16.316
+    },
+    {
+      "day": "2018-10-26",
+      "temperature": 16.343
+    },
+    {
+      "day": "2018-10-27",
+      "temperature": 16.372
+    },
+    {
+      "day": "2018-10-28",
+      "temperature": 16.401
+    },
+    {
+      "day": "2018-10-29",
+      "temperature": 16.432
+    },
+    {
+      "day": "2018-10-30",
+      "temperature": 16.464
+    },
+    {
+      "day": "2018-10-31",
+      "temperature": 16.496
+    },
+    {
+      "day": "2018-11-01",
+      "temperature": 16.53
+    },
+    {
+      "day": "2018-11-02",
+      "temperature": 16.565
+    },
+    {
+      "day": "2018-11-03",
+      "temperature": 16.601
+    },
+    {
+      "day": "2018-11-04",
+      "temperature": 16.638
+    },
+    {
+      "day": "2018-11-05",
+      "temperature": 16.675
+    },
+    {
+      "day": "2018-11-06",
+      "temperature": 16.714
+    },
+    {
+      "day": "2018-11-07",
+      "temperature": 16.754
+    },
+    {
+      "day": "2018-11-08",
+      "temperature": 16.795
+    },
+    {
+      "day": "2018-11-09",
+      "temperature": 16.836
+    },
+    {
+      "day": "2018-11-10",
+      "temperature": 16.879
+    },
+    {
+      "day": "2018-11-11",
+      "temperature": 16.922
+    },
+    {
+      "day": "2018-11-12",
+      "temperature": 16.967
+    },
+    {
+      "day": "2018-11-13",
+      "temperature": 17.012
+    },
+    {
+      "day": "2018-11-14",
+      "temperature": 17.058
+    },
+    {
+      "day": "2018-11-15",
+      "temperature": 17.105
+    },
+    {
+      "day": "2018-11-16",
+      "temperature": 17.153
+    },
+    {
+      "day": "2018-11-17",
+      "temperature": 17.202
+    },
+    {
+      "day": "2018-11-18",
+      "temperature": 17.252
+    },
+    {
+      "day": "2018-11-19",
+      "temperature": 17.302
+    },
+    {
+      "day": "2018-11-20",
+      "temperature": 17.353
+    },
+    {
+      "day": "2018-11-21",
+      "temperature": 17.405
+    },
+    {
+      "day": "2018-11-22",
+      "temperature": 17.458
+    },
+    {
+      "day": "2018-11-23",
+      "temperature": 17.512
+    },
+    {
+      "day": "2018-11-24",
+      "temperature": 17.566
+    },
+    {
+      "day": "2018-11-25",
+      "temperature": 17.621
+    },
+    {
+      "day": "2018-11-26",
+      "temperature": 17.677
+    },
+    {
+      "day": "2018-11-27",
+      "temperature": 17.733
+    },
+    {
+      "day": "2018-11-28",
+      "temperature": 17.79
+    },
+    {
+      "day": "2018-11-29",
+      "temperature": 17.848
+    },
+    {
+      "day": "2018-11-30",
+      "temperature": 17.906
+    },
+    {
+      "day": "2018-12-01",
+      "temperature": 17.965
+    },
+    {
+      "day": "2018-12-02",
+      "temperature": 18.025
+    },
+    {
+      "day": "2018-12-03",
+      "temperature": 18.085
+    },
+    {
+      "day": "2018-12-04",
+      "temperature": 18.146
+    },
+    {
+      "day": "2018-12-05",
+      "temperature": 18.207
+    },
+    {
+      "day": "2018-12-06",
+      "temperature": 18.269
+    },
+    {
+      "day": "2018-12-07",
+      "temperature": 18.331
+    },
+    {
+      "day": "2018-12-08",
+      "temperature": 18.394
+    },
+    {
+      "day": "2018-12-09",
+      "temperature": 18.457
+    },
+    {
+      "day": "2018-12-10",
+      "temperature": 18.521
+    },
+    {
+      "day": "2018-12-11",
+      "temperature": 18.585
+    },
+    {
+      "day": "2018-12-12",
+      "temperature": 18.65
+    },
+    {
+      "day": "2018-12-13",
+      "temperature": 18.715
+    },
+    {
+      "day": "2018-12-14",
+      "temperature": 18.78
+    },
+    {
+      "day": "2018-12-15",
+      "temperature": 18.846
+    },
+    {
+      "day": "2018-12-16",
+      "temperature": 18.912
+    },
+    {
+      "day": "2018-12-17",
+      "temperature": 18.979
+    },
+    {
+      "day": "2018-12-18",
+      "temperature": 19.045
+    },
+    {
+      "day": "2018-12-19",
+      "temperature": 19.112
+    },
+    {
+      "day": "2018-12-20",
+      "temperature": 19.18
+    },
+    {
+      "day": "2018-12-21",
+      "temperature": 19.247
+    },
+    {
+      "day": "2018-12-22",
+      "temperature": 19.315
+    },
+    {
+      "day": "2018-12-23",
+      "temperature": 19.383
+    },
+    {
+      "day": "2018-12-24",
+      "temperature": 19.451
+    },
+    {
+      "day": "2018-12-25",
+      "temperature": 19.519
+    },
+    {
+      "day": "2018-12-26",
+      "temperature": 19.588
+    },
+    {
+      "day": "2018-12-27",
+      "temperature": 19.656
+    },
+    {
+      "day": "2018-12-28",
+      "temperature": 19.725
+    },
+    {
+      "day": "2018-12-29",
+      "temperature": 19.794
+    },
+    {
+      "day": "2018-12-30",
+      "temperature": 19.862
+    },
+    {
+      "day": "2018-12-31",
+      "temperature": 19.931
+    },
+    {
+      "day": "2019-01-01",
+      "temperature": 20.15
+    },
+    {
+      "day": "2019-01-02",
+      "temperature": 20.219
+    },
+    {
+      "day": "2019-01-03",
+      "temperature": 20.288
+    },
+    {
+      "day": "2019-01-04",
+      "temperature": 20.356
+    },
+    {
+      "day": "2019-01-05",
+      "temperature": 20.425
+    },
+    {
+      "day": "2019-01-06",
+      "temperature": 20.494
+    },
+    {
+      "day": "2019-01-07",
+      "temperature": 20.562
+    },
+    {
+      "day": "2019-01-08",
+      "temperature": 20.631
+    },
+    {
+      "day": "2019-01-09",
+      "temperature": 20.699
+    },
+    {
+      "day": "2019-01-10",
+      "temperature": 20.767
+    },
+    {
+      "day": "2019-01-11",
+      "temperature": 20.835
+    },
+    {
+      "day": "2019-01-12",
+      "temperature": 20.903
+    },
+    {
+      "day": "2019-01-13",
+      "temperature": 20.97
+    },
+    {
+      "day": "2019-01-14",
+      "temperature": 21.038
+    },
+    {
+      "day": "2019-01-15",
+      "temperature": 21.105
+    },
+    {
+      "day": "2019-01-16",
+      "temperature": 21.171
+    },
+    {
+      "day": "2019-01-17",
+      "temperature": 21.238
+    },
+    {
+      "day": "2019-01-18",
+      "temperature": 21.304
+    },
+    {
+      "day": "2019-01-19",
+      "temperature": 21.37
+    },
+    {
+      "day": "2019-01-20",
+      "temperature": 21.435
+    },
+    {
+      "day": "2019-01-21",
+      "temperature": 21.5
+    },
+    {
+      "day": "2019-01-22",
+      "temperature": 21.565
+    },
+    {
+      "day": "2019-01-23",
+      "temperature": 21.629
+    },
+    {
+      "day": "2019-01-24",
+      "temperature": 21.693
+    },
+    {
+      "day": "2019-01-25",
+      "temperature": 21.756
+    },
+    {
+      "day": "2019-01-26",
+      "temperature": 21.819
+    },
+    {
+      "day": "2019-01-27",
+      "temperature": 21.881
+    },
+    {
+      "day": "2019-01-28",
+      "temperature": 21.943
+    },
+    {
+      "day": "2019-01-29",
+      "temperature": 22.004
+    },
+    {
+      "day": "2019-01-30",
+      "temperature": 22.065
+    },
+    {
+      "day": "2019-01-31",
+      "temperature": 22.125
+    },
+    {
+      "day": "2019-02-01",
+      "temperature": 22.185
+    },
+    {
+      "day": "2019-02-02",
+      "temperature": 22.244
+    },
+    {
+      "day": "2019-02-03",
+      "temperature": 22.302
+    },
+    {
+      "day": "2019-02-04",
+      "temperature": 22.36
+    },
+    {
+      "day": "2019-02-05",
+      "temperature": 22.417
+    },
+    {
+      "day": "2019-02-06",
+      "temperature": 22.473
+    },
+    {
+      "day": "2019-02-07",
+      "temperature": 22.529
+    },
+    {
+      "day": "2019-02-08",
+      "temperature": 22.584
+    },
+    {
+      "day": "2019-02-09",
+      "temperature": 22.638
+    },
+    {
+      "day": "2019-02-10",
+      "temperature": 22.692
+    },
+    {
+      "day": "2019-02-11",
+      "temperature": 22.745
+    },
+    {
+      "day": "2019-02-12",
+      "temperature": 22.797
+    },
+    {
+      "day": "2019-02-13",
+      "temperature": 22.848
+    },
+    {
+      "day": "2019-02-14",
+      "temperature": 22.898
+    },
+    {
+      "day": "2019-02-15",
+      "temperature": 22.948
+    },
+    {
+      "day": "2019-02-16",
+      "temperature": 22.997
+    },
+    {
+      "day": "2019-02-17",
+      "temperature": 23.045
+    },
+    {
+      "day": "2019-02-18",
+      "temperature": 23.092
+    },
+    {
+      "day": "2019-02-19",
+      "temperature": 23.138
+    },
+    {
+      "day": "2019-02-20",
+      "temperature": 23.183
+    },
+    {
+      "day": "2019-02-21",
+      "temperature": 23.228
+    },
+    {
+      "day": "2019-02-22",
+      "temperature": 23.271
+    },
+    {
+      "day": "2019-02-23",
+      "temperature": 23.314
+    },
+    {
+      "day": "2019-02-24",
+      "temperature": 23.355
+    },
+    {
+      "day": "2019-02-25",
+      "temperature": 23.396
+    },
+    {
+      "day": "2019-02-26",
+      "temperature": 23.436
+    },
+    {
+      "day": "2019-02-27",
+      "temperature": 23.475
+    },
+    {
+      "day": "2019-02-28",
+      "temperature": 23.512
+    },
+    {
+      "day": "2019-03-01",
+      "temperature": 23.549
+    },
+    {
+      "day": "2019-03-02",
+      "temperature": 23.585
+    },
+    {
+      "day": "2019-03-03",
+      "temperature": 23.62
+    },
+    {
+      "day": "2019-03-04",
+      "temperature": 23.654
+    },
+    {
+      "day": "2019-03-05",
+      "temperature": 23.686
+    },
+    {
+      "day": "2019-03-06",
+      "temperature": 23.718
+    },
+    {
+      "day": "2019-03-07",
+      "temperature": 23.749
+    },
+    {
+      "day": "2019-03-08",
+      "temperature": 23.778
+    },
+    {
+      "day": "2019-03-09",
+      "temperature": 23.807
+    },
+    {
+      "day": "2019-03-10",
+      "temperature": 23.834
+    },
+    {
+      "day": "2019-03-11",
+      "temperature": 23.86
+    },
+    {
+      "day": "2019-03-12",
+      "temperature": 23.885
+    },
+    {
+      "day": "2019-03-13",
+      "temperature": 23.909
+    },
+    {
+      "day": "2019-03-14",
+      "temperature": 23.932
+    },
+    {
+      "day": "2019-03-15",
+      "temperature": 23.954
+    },
+    {
+      "day": "2019-03-16",
+      "temperature": 23.975
+    },
+    {
+      "day": "2019-03-17",
+      "temperature": 23.995
+    },
+    {
+      "day": "2019-03-18",
+      "temperature": 24.013
+    },
+    {
+      "day": "2019-03-19",
+      "temperature": 24.03
+    },
+    {
+      "day": "2019-03-20",
+      "temperature": 24.046
+    },
+    {
+      "day": "2019-03-21",
+      "temperature": 24.061
+    },
+    {
+      "day": "2019-03-22",
+      "temperature": 24.075
+    },
+    {
+      "day": "2019-03-23",
+      "temperature": 24.088
+    },
+    {
+      "day": "2019-03-24",
+      "temperature": 24.099
+    },
+    {
+      "day": "2019-03-25",
+      "temperature": 24.11
+    },
+    {
+      "day": "2019-03-26",
+      "temperature": 24.119
+    },
+    {
+      "day": "2019-03-27",
+      "temperature": 24.127
+    },
+    {
+      "day": "2019-03-28",
+      "temperature": 24.134
+    },
+    {
+      "day": "2019-03-29",
+      "temperature": 24.139
+    },
+    {
+      "day": "2019-03-30",
+      "temperature": 24.144
+    },
+    {
+      "day": "2019-03-31",
+      "temperature": 24.147
+    },
+    {
+      "day": "2019-04-01",
+      "temperature": 24.149
+    },
+    {
+      "day": "2019-04-02",
+      "temperature": 24.15
+    },
+    {
+      "day": "2019-04-03",
+      "temperature": 24.15
+    },
+    {
+      "day": "2019-04-04",
+      "temperature": 24.148
+    },
+    {
+      "day": "2019-04-05",
+      "temperature": 24.146
+    },
+    {
+      "day": "2019-04-06",
+      "temperature": 24.142
+    },
+    {
+      "day": "2019-04-07",
+      "temperature": 24.137
+    },
+    {
+      "day": "2019-04-08",
+      "temperature": 24.13
+    },
+    {
+      "day": "2019-04-09",
+      "temperature": 24.123
+    },
+    {
+      "day": "2019-04-10",
+      "temperature": 24.114
+    },
+    {
+      "day": "2019-04-11",
+      "temperature": 24.105
+    },
+    {
+      "day": "2019-04-12",
+      "temperature": 24.094
+    },
+    {
+      "day": "2019-04-13",
+      "temperature": 24.082
+    },
+    {
+      "day": "2019-04-14",
+      "temperature": 24.068
+    },
+    {
+      "day": "2019-04-15",
+      "temperature": 24.054
+    },
+    {
+      "day": "2019-04-16",
+      "temperature": 24.038
+    },
+    {
+      "day": "2019-04-17",
+      "temperature": 24.022
+    },
+    {
+      "day": "2019-04-18",
+      "temperature": 24.004
+    },
+    {
+      "day": "2019-04-19",
+      "temperature": 23.985
+    },
+    {
+      "day": "2019-04-20",
+      "temperature": 23.965
+    },
+    {
+      "day": "2019-04-21",
+      "temperature": 23.943
+    },
+    {
+      "day": "2019-04-22",
+      "temperature": 23.921
+    },
+    {
+      "day": "2019-04-23",
+      "temperature": 23.898
+    },
+    {
+      "day": "2019-04-24",
+      "temperature": 23.873
+    },
+    {
+      "day": "2019-04-25",
+      "temperature": 23.847
+    },
+    {
+      "day": "2019-04-26",
+      "temperature": 23.82
+    },
+    {
+      "day": "2019-04-27",
+      "temperature": 23.792
+    },
+    {
+      "day": "2019-04-28",
+      "temperature": 23.763
+    },
+    {
+      "day": "2019-04-29",
+      "temperature": 23.733
+    },
+    {
+      "day": "2019-04-30",
+      "temperature": 23.702
+    },
+    {
+      "day": "2019-05-01",
+      "temperature": 23.67
+    },
+    {
+      "day": "2019-05-02",
+      "temperature": 23.637
+    },
+    {
+      "day": "2019-05-03",
+      "temperature": 23.603
+    },
+    {
+      "day": "2019-05-04",
+      "temperature": 23.567
+    },
+    {
+      "day": "2019-05-05",
+      "temperature": 23.531
+    },
+    {
+      "day": "2019-05-06",
+      "temperature": 23.494
+    },
+    {
+      "day": "2019-05-07",
+      "temperature": 23.455
+    },
+    {
+      "day": "2019-05-08",
+      "temperature": 23.416
+    },
+    {
+      "day": "2019-05-09",
+      "temperature": 23.376
+    },
+    {
+      "day": "2019-05-10",
+      "temperature": 23.335
+    },
+    {
+      "day": "2019-05-11",
+      "temperature": 23.293
+    },
+    {
+      "day": "2019-05-12",
+      "temperature": 23.25
+    },
+    {
+      "day": "2019-05-13",
+      "temperature": 23.206
+    },
+    {
+      "day": "2019-05-14",
+      "temperature": 23.161
+    },
+    {
+      "day": "2019-05-15",
+      "temperature": 23.115
+    },
+    {
+      "day": "2019-05-16",
+      "temperature": 23.068
+    },
+    {
+      "day": "2019-05-17",
+      "temperature": 23.021
+    },
+    {
+      "day": "2019-05-18",
+      "temperature": 22.972
+    },
+    {
+      "day": "2019-05-19",
+      "temperature": 22.923
+    },
+    {
+      "day": "2019-05-20",
+      "temperature": 22.873
+    },
+    {
+      "day": "2019-05-21",
+      "temperature": 22.822
+    },
+    {
+      "day": "2019-05-22",
+      "temperature": 22.771
+    },
+    {
+      "day": "2019-05-23",
+      "temperature": 22.718
+    },
+    {
+      "day": "2019-05-24",
+      "temperature": 22.665
+    },
+    {
+      "day": "2019-05-25",
+      "temperature": 22.611
+    },
+    {
+      "day": "2019-05-26",
+      "temperature": 22.556
+    },
+    {
+      "day": "2019-05-27",
+      "temperature": 22.501
+    },
+    {
+      "day": "2019-05-28",
+      "temperature": 22.445
+    },
+    {
+      "day": "2019-05-29",
+      "temperature": 22.388
+    },
+    {
+      "day": "2019-05-30",
+      "temperature": 22.331
+    },
+    {
+      "day": "2019-05-31",
+      "temperature": 22.273
+    },
+    {
+      "day": "2019-06-01",
+      "temperature": 22.214
+    },
+    {
+      "day": "2019-06-02",
+      "temperature": 22.155
+    },
+    {
+      "day": "2019-06-03",
+      "temperature": 22.095
+    },
+    {
+      "day": "2019-06-04",
+      "temperature": 22.035
+    },
+    {
+      "day": "2019-06-05",
+      "temperature": 21.974
+    },
+    {
+      "day": "2019-06-06",
+      "temperature": 21.912
+    },
+    {
+      "day": "2019-06-07",
+      "temperature": 21.85
+    },
+    {
+      "day": "2019-06-08",
+      "temperature": 21.787
+    },
+    {
+      "day": "2019-06-09",
+      "temperature": 21.724
+    },
+    {
+      "day": "2019-06-10",
+      "temperature": 21.661
+    },
+    {
+      "day": "2019-06-11",
+      "temperature": 21.597
+    },
+    {
+      "day": "2019-06-12",
+      "temperature": 21.532
+    },
+    {
+      "day": "2019-06-13",
+      "temperature": 21.468
+    },
+    {
+      "day": "2019-06-14",
+      "temperature": 21.402
+    },
+    {
+      "day": "2019-06-15",
+      "temperature": 21.337
+    },
+    {
+      "day": "2019-06-16",
+      "temperature": 21.271
+    },
+    {
+      "day": "2019-06-17",
+      "temperature": 21.205
+    },
+    {
+      "day": "2019-06-18",
+      "temperature": 21.138
+    },
+    {
+      "day": "2019-06-19",
+      "temperature": 21.071
+    },
+    {
+      "day": "2019-06-20",
+      "temperature": 21.004
+    },
+    {
+      "day": "2019-06-21",
+      "temperature": 20.937
+    },
+    {
+      "day": "2019-06-22",
+      "temperature": 20.869
+    },
+    {
+      "day": "2019-06-23",
+      "temperature": 20.801
+    },
+    {
+      "day": "2019-06-24",
+      "temperature": 20.733
+    },
+    {
+      "day": "2019-06-25",
+      "temperature": 20.665
+    },
+    {
+      "day": "2019-06-26",
+      "temperature": 20.597
+    },
+    {
+      "day": "2019-06-27",
+      "temperature": 20.528
+    },
+    {
+      "day": "2019-06-28",
+      "temperature": 20.46
+    },
+    {
+      "day": "2019-06-29",
+      "temperature": 20.391
+    },
+    {
+      "day": "2019-06-30",
+      "temperature": 20.322
+    },
+    {
+      "day": "2019-07-01",
+      "temperature": 20.253
+    },
+    {
+      "day": "2019-07-02",
+      "temperature": 20.184
+    },
+    {
+      "day": "2019-07-03",
+      "temperature": 20.116
+    },
+    {
+      "day": "2019-07-04",
+      "temperature": 20.047
+    },
+    {
+      "day": "2019-07-05",
+      "temperature": 19.978
+    },
+    {
+      "day": "2019-07-06",
+      "temperature": 19.909
+    },
+    {
+      "day": "2019-07-07",
+      "temperature": 19.84
+    },
+    {
+      "day": "2019-07-08",
+      "temperature": 19.772
+    },
+    {
+      "day": "2019-07-09",
+      "temperature": 19.703
+    },
+    {
+      "day": "2019-07-10",
+      "temperature": 19.635
+    },
+    {
+      "day": "2019-07-11",
+      "temperature": 19.567
+    },
+    {
+      "day": "2019-07-12",
+      "temperature": 19.499
+    },
+    {
+      "day": "2019-07-13",
+      "temperature": 19.431
+    },
+    {
+      "day": "2019-07-14",
+      "temperature": 19.363
+    },
+    {
+      "day": "2019-07-15",
+      "temperature": 19.296
+    },
+    {
+      "day": "2019-07-16",
+      "temperature": 19.229
+    },
+    {
+      "day": "2019-07-17",
+      "temperature": 19.162
+    },
+    {
+      "day": "2019-07-18",
+      "temperature": 19.095
+    },
+    {
+      "day": "2019-07-19",
+      "temperature": 19.029
+    },
+    {
+      "day": "2019-07-20",
+      "temperature": 18.963
+    },
+    {
+      "day": "2019-07-21",
+      "temperature": 18.898
+    },
+    {
+      "day": "2019-07-22",
+      "temperature": 18.832
+    },
+    {
+      "day": "2019-07-23",
+      "temperature": 18.768
+    },
+    {
+      "day": "2019-07-24",
+      "temperature": 18.703
+    },
+    {
+      "day": "2019-07-25",
+      "temperature": 18.639
+    },
+    {
+      "day": "2019-07-26",
+      "temperature": 18.576
+    },
+    {
+      "day": "2019-07-27",
+      "temperature": 18.513
+    },
+    {
+      "day": "2019-07-28",
+      "temperature": 18.45
+    },
+    {
+      "day": "2019-07-29",
+      "temperature": 18.388
+    },
+    {
+      "day": "2019-07-30",
+      "temperature": 18.326
+    },
+    {
+      "day": "2019-07-31",
+      "temperature": 18.265
+    },
+    {
+      "day": "2019-08-01",
+      "temperature": 18.205
+    },
+    {
+      "day": "2019-08-02",
+      "temperature": 18.145
+    },
+    {
+      "day": "2019-08-03",
+      "temperature": 18.086
+    },
+    {
+      "day": "2019-08-04",
+      "temperature": 18.027
+    },
+    {
+      "day": "2019-08-05",
+      "temperature": 17.969
+    },
+    {
+      "day": "2019-08-06",
+      "temperature": 17.912
+    },
+    {
+      "day": "2019-08-07",
+      "temperature": 17.855
+    },
+    {
+      "day": "2019-08-08",
+      "temperature": 17.799
+    },
+    {
+      "day": "2019-08-09",
+      "temperature": 17.744
+    },
+    {
+      "day": "2019-08-10",
+      "temperature": 17.689
+    },
+    {
+      "day": "2019-08-11",
+      "temperature": 17.635
+    },
+    {
+      "day": "2019-08-12",
+      "temperature": 17.582
+    },
+    {
+      "day": "2019-08-13",
+      "temperature": 17.529
+    },
+    {
+      "day": "2019-08-14",
+      "temperature": 17.478
+    },
+    {
+      "day": "2019-08-15",
+      "temperature": 17.427
+    },
+    {
+      "day": "2019-08-16",
+      "temperature": 17.377
+    },
+    {
+      "day": "2019-08-17",
+      "temperature": 17.328
+    },
+    {
+      "day": "2019-08-18",
+      "temperature": 17.279
+    },
+    {
+      "day": "2019-08-19",
+      "temperature": 17.232
+    },
+    {
+      "day": "2019-08-20",
+      "temperature": 17.185
+    },
+    {
+      "day": "2019-08-21",
+      "temperature": 17.139
+    },
+    {
+      "day": "2019-08-22",
+      "temperature": 17.094
+    },
+    {
+      "day": "2019-08-23",
+      "temperature": 17.05
+    },
+    {
+      "day": "2019-08-24",
+      "temperature": 17.007
+    },
+    {
+      "day": "2019-08-25",
+      "temperature": 16.965
+    },
+    {
+      "day": "2019-08-26",
+      "temperature": 16.924
+    },
+    {
+      "day": "2019-08-27",
+      "temperature": 16.884
+    },
+    {
+      "day": "2019-08-28",
+      "temperature": 16.845
+    },
+    {
+      "day": "2019-08-29",
+      "temperature": 16.806
+    },
+    {
+      "day": "2019-08-30",
+      "temperature": 16.769
+    },
+    {
+      "day": "2019-08-31",
+      "temperature": 16.733
+    },
+    {
+      "day": "2019-09-01",
+      "temperature": 16.697
+    },
+    {
+      "day": "2019-09-02",
+      "temperature": 16.663
+    },
+    {
+      "day": "2019-09-03",
+      "temperature": 16.63
+    },
+    {
+      "day": "2019-09-04",
+      "temperature": 16.598
+    },
+    {
+      "day": "2019-09-05",
+      "temperature": 16.567
+    },
+    {
+      "day": "2019-09-06",
+      "temperature": 16.537
+    },
+    {
+      "day": "2019-09-07",
+      "temperature": 16.508
+    },
+    {
+      "day": "2019-09-08",
+      "temperature": 16.48
+    },
+    {
+      "day": "2019-09-09",
+      "temperature": 16.453
+    },
+    {
+      "day": "2019-09-10",
+      "temperature": 16.427
+    },
+    {
+      "day": "2019-09-11",
+      "temperature": 16.402
+    },
+    {
+      "day": "2019-09-12",
+      "temperature": 16.379
+    },
+    {
+      "day": "2019-09-13",
+      "temperature": 16.357
+    },
+    {
+      "day": "2019-09-14",
+      "temperature": 16.335
+    },
+    {
+      "day": "2019-09-15",
+      "temperature": 16.315
+    },
+    {
+      "day": "2019-09-16",
+      "temperature": 16.296
+    },
+    {
+      "day": "2019-09-17",
+      "temperature": 16.278
+    },
+    {
+      "day": "2019-09-18",
+      "temperature": 16.262
+    },
+    {
+      "day": "2019-09-19",
+      "temperature": 16.246
+    },
+    {
+      "day": "2019-09-20",
+      "temperature": 16.232
+    },
+    {
+      "day": "2019-09-21",
+      "temperature": 16.218
+    },
+    {
+      "day": "2019-09-22",
+      "temperature": 16.206
+    },
+    {
+      "day": "2019-09-23",
+      "temperature": 16.195
+    },
+    {
+      "day": "2019-09-24",
+      "temperature": 16.186
+    },
+    {
+      "day": "2019-09-25",
+      "temperature": 16.177
+    },
+    {
+      "day": "2019-09-26",
+      "temperature": 16.17
+    },
+    {
+      "day": "2019-09-27",
+      "temperature": 16.163
+    },
+    {
+      "day": "2019-09-28",
+      "temperature": 16.158
+    },
+    {
+      "day": "2019-09-29",
+      "temperature": 16.154
+    },
+    {
+      "day": "2019-09-30",
+      "temperature": 16.152
+    },
+    {
+      "day": "2019-10-01",
+      "temperature": 16.15
+    },
+    {
+      "day": "2019-10-02",
+      "temperature": 16.15
+    },
+    {
+      "day": "2019-10-03",
+      "temperature": 16.151
+    },
+    {
+      "day": "2019-10-04",
+      "temperature": 16.153
+    },
+    {
+      "day": "2019-10-05",
+      "temperature": 16.156
+    },
+    {
+      "day": "2019-10-06",
+      "temperature": 16.161
+    },
+    {
+      "day": "2019-10-07",
+      "temperature": 16.166
+    },
+    {
+      "day": "2019-10-08",
+      "temperature": 16.173
+    },
+    {
+      "day": "2019-10-09",
+      "temperature": 16.181
+    },
+    {
+      "day": "2019-10-10",
+      "temperature": 16.19
+    },
+    {
+      "day": "2019-10-11",
+      "temperature": 16.201
+    },
+    {
+      "day": "2019-10-12",
+      "temperature": 16.212
+    },
+    {
+      "day": "2019-10-13",
+      "temperature": 16.225
+    },
+    {
+      "day": "2019-10-14",
+      "temperature": 16.239
+    },
+    {
+      "day": "2019-10-15",
+      "temperature": 16.254
+    },
+    {
+      "day": "2019-10-16",
+      "temperature": 16.27
+    },
+    {
+      "day": "2019-10-17",
+      "temperature": 16.287
+    },
+    {
+      "day": "2019-10-18",
+      "temperature": 16.305
+    },
+    {
+      "day": "2019-10-19",
+      "temperature": 16.325
+    },
+    {
+      "day": "2019-10-20",
+      "temperature": 16.346
+    },
+    {
+      "day": "2019-10-21",
+      "temperature": 16.368
+    },
+    {
+      "day": "2019-10-22",
+      "temperature": 16.391
+    },
+    {
+      "day": "2019-10-23",
+      "temperature": 16.415
+    },
+    {
+      "day": "2019-10-24",
+      "temperature": 16.44
+    },
+    {
+      "day": "2019-10-25",
+      "temperature": 16.466
+    },
+    {
+      "day": "2019-10-26",
+      "temperature": 16.493
+    },
+    {
+      "day": "2019-10-27",
+      "temperature": 16.522
+    },
+    {
+      "day": "2019-10-28",
+      "temperature": 16.551
+    },
+    {
+      "day": "2019-10-29",
+      "temperature": 16.582
+    },
+    {
+      "day": "2019-10-30",
+      "temperature": 16.614
+    },
+    {
+      "day": "2019-10-31",
+      "temperature": 16.646
+    },
+    {
+      "day": "2019-11-01",
+      "temperature": 16.68
+    },
+    {
+      "day": "2019-11-02",
+      "temperature": 16.715
+    },
+    {
+      "day": "2019-11-03",
+      "temperature": 16.751
+    },
+    {
+      "day": "2019-11-04",
+      "temperature": 16.788
+    },
+    {
+      "day": "2019-11-05",
+      "temperature": 16.825
+    },
+    {
+      "day": "2019-11-06",
+      "temperature": 16.864
+    },
+    {
+      "day": "2019-11-07",
+      "temperature": 16.904
+    },
+    {
+      "day": "2019-11-08",
+      "temperature": 16.945
+    },
+    {
+      "day": "2019-11-09",
+      "temperature": 16.986
+    },
+    {
+      "day": "2019-11-10",
+      "temperature": 17.029
+    },
+    {
+      "day": "2019-11-11",
+      "temperature": 17.072
+    },
+    {
+      "day": "2019-11-12",
+      "temperature": 17.117
+    },
+    {
+      "day": "2019-11-13",
+      "temperature": 17.162
+    },
+    {
+      "day": "2019-11-14",
+      "temperature": 17.208
+    },
+    {
+      "day": "2019-11-15",
+      "temperature": 17.255
+    },
+    {
+      "day": "2019-11-16",
+      "temperature": 17.303
+    },
+    {
+      "day": "2019-11-17",
+      "temperature": 17.352
+    },
+    {
+      "day": "2019-11-18",
+      "temperature": 17.402
+    },
+    {
+      "day": "2019-11-19",
+      "temperature": 17.452
+    },
+    {
+      "day": "2019-11-20",
+      "temperature": 17.503
+    },
+    {
+      "day": "2019-11-21",
+      "temperature": 17.555
+    },
+    {
+      "day": "2019-11-22",
+      "temperature": 17.608
+    },
+    {
+      "day": "2019-11-23",
+      "temperature": 17.662
+    },
+    {
+      "day": "2019-11-24",
+      "temperature": 17.716
+    },
+    {
+      "day": "2019-11-25",
+      "temperature": 17.771
+    },
+    {
+      "day": "2019-11-26",
+      "temperature": 17.827
+    },
+    {
+      "day": "2019-11-27",
+      "temperature": 17.883
+    },
+    {
+      "day": "2019-11-28",
+      "temperature": 17.94
+    },
+    {
+      "day": "2019-11-29",
+      "temperature": 17.998
+    },
+    {
+      "day": "2019-11-30",
+      "temperature": 18.056
+    },
+    {
+      "day": "2019-12-01",
+      "temperature": 18.115
+    },
+    {
+      "day": "2019-12-02",
+      "temperature": 18.175
+    },
+    {
+      "day": "2019-12-03",
+      "temperature": 18.235
+    },
+    {
+      "day": "2019-12-04",
+      "temperature": 18.296
+    },
+    {
+      "day": "2019-12-05",
+      "temperature": 18.357
+    },
+    {
+      "day": "2019-12-06",
+      "temperature": 18.419
+    },
+    {
+      "day": "2019-12-07",
+      "temperature": 18.481
+    },
+    {
+      "day": "2019-12-08",
+      "temperature": 18.544
+    },
+    {
+      "day": "2019-12-09",
+      "temperature": 18.607
+    },
+    {
+      "day": "2019-12-10",
+      "temperature": 18.671
+    },
+    {
+      "day": "2019-12-11",
+      "temperature": 18.735
+    },
+    {
+      "day": "2019-12-12",
+      "temperature": 18.8
+    },
+    {
+      "day": "2019-12-13",
+      "temperature": 18.865
+    },
+    {
+      "day": "2019-12-14",
+      "temperature": 18.93
+    },
+    {
+      "day": "2019-12-15",
+      "temperature": 18.996
+    },
+    {
+      "day": "2019-12-16",
+      "temperature": 19.062
+    },
+    {
+      "day": "2019-12-17",
+      "temperature": 19.129
+    },
+    {
+      "day": "2019-12-18",
+      "temperature": 19.195
+    },
+    {
+      "day": "2019-12-19",
+      "temperature": 19.262
+    },
+    {
+      "day": "2019-12-20",
+      "temperature": 19.33
+    },
+    {
+      "day": "2019-12-21",
+      "temperature": 19.397
+    },
+    {
+      "day": "2019-12-22",
+      "temperature": 19.465
+    },
+    {
+      "day": "2019-12-23",
+      "temperature": 19.533
+    },
+    {
+      "day": "2019-12-24",
+      "temperature": 19.601
+    },
+    {
+      "day": "2019-12-25",
+      "temperature": 19.669
+    },
+    {
+      "day": "2019-12-26",
+      "temperature": 19.738
+    },
+    {
+      "day": "2019-12-27",
+      "temperature": 19.806
+    },
+    {
+      "day": "2019-12-28",
+      "temperature": 19.875
+    },
+    {
+      "day": "2019-12-29",
+      "temperature": 19.944
+    },
+    {
+      "day": "2019-12-30",
+      "temperature": 20.012
+    },
+    {
+      "day": "2019-12-31",
+      "temperature": 20.081
+    },
+    {
+      "day": "2020-01-01",
+      "temperature": 20.3
+    },
+    {
+      "day": "2020-01-02",
+      "temperature": 20.369
+    },
+    {
+      "day": "2020-01-03",
+      "temperature": 20.438
+    },
+    {
+      "day": "2020-01-04",
+      "temperature": 20.506
+    },
+    {
+      "day": "2020-01-05",
+      "temperature": 20.575
+    },
+    {
+      "day": "2020-01-06",
+      "temperature": 20.644
+    },
+    {
+      "day": "2020-01-07",
+      "temperature": 20.712
+    },
+    {
+      "day": "2020-01-08",
+      "temperature": 20.781
+    },
+    {
+      "day": "2020-01-09",
+      "temperature": 20.849
+    },
+    {
+      "day": "2020-01-10",
+      "temperature": 20.917
+    },
+    {
+      "day": "2020-01-11",
+      "temperature": 20.985
+    },
+    {
+      "day": "2020-01-12",
+      "temperature": 21.053
+    },
+    {
+      "day": "2020-01-13",
+      "temperature": 21.12
+    },
+    {
+      "day": "2020-01-14",
+      "temperature": 21.188
+    },
+    {
+      "day": "2020-01-15",
+      "temperature": 21.255
+    },
+    {
+      "day": "2020-01-16",
+      "temperature": 21.321
+    },
+    {
+      "day": "2020-01-17",
+      "temperature": 21.388
+    },
+    {
+      "day": "2020-01-18",
+      "temperature": 21.454
+    },
+    {
+      "day": "2020-01-19",
+      "temperature": 21.52
+    },
+    {
+      "day": "2020-01-20",
+      "temperature": 21.585
+    },
+    {
+      "day": "2020-01-21",
+      "temperature": 21.65
+    },
+    {
+      "day": "2020-01-22",
+      "temperature": 21.715
+    },
+    {
+      "day": "2020-01-23",
+      "temperature": 21.779
+    },
+    {
+      "day": "2020-01-24",
+      "temperature": 21.843
+    },
+    {
+      "day": "2020-01-25",
+      "temperature": 21.906
+    },
+    {
+      "day": "2020-01-26",
+      "temperature": 21.969
+    },
+    {
+      "day": "2020-01-27",
+      "temperature": 22.031
+    },
+    {
+      "day": "2020-01-28",
+      "temperature": 22.093
+    },
+    {
+      "day": "2020-01-29",
+      "temperature": 22.154
+    },
+    {
+      "day": "2020-01-30",
+      "temperature": 22.215
+    },
+    {
+      "day": "2020-01-31",
+      "temperature": 22.275
+    },
+    {
+      "day": "2020-02-01",
+      "temperature": 22.335
+    },
+    {
+      "day": "2020-02-02",
+      "temperature": 22.394
+    },
+    {
+      "day": "2020-02-03",
+      "temperature": 22.452
+    },
+    {
+      "day": "2020-02-04",
+      "temperature": 22.51
+    },
+    {
+      "day": "2020-02-05",
+      "temperature": 22.567
+    },
+    {
+      "day": "2020-02-06",
+      "temperature": 22.623
+    },
+    {
+      "day": "2020-02-07",
+      "temperature": 22.679
+    },
+    {
+      "day": "2020-02-08",
+      "temperature": 22.734
+    },
+    {
+      "day": "2020-02-09",
+      "temperature": 22.788
+    },
+    {
+      "day": "2020-02-10",
+      "temperature": 22.842
+    },
+    {
+      "day": "2020-02-11",
+      "temperature": 22.895
+    },
+    {
+      "day": "2020-02-12",
+      "temperature": 22.947
+    },
+    {
+      "day": "2020-02-13",
+      "temperature": 22.998
+    },
+    {
+      "day": "2020-02-14",
+      "temperature": 23.048
+    },
+    {
+      "day": "2020-02-15",
+      "temperature": 23.098
+    },
+    {
+      "day": "2020-02-16",
+      "temperature": 23.147
+    },
+    {
+      "day": "2020-02-17",
+      "temperature": 23.195
+    },
+    {
+      "day": "2020-02-18",
+      "temperature": 23.242
+    },
+    {
+      "day": "2020-02-19",
+      "temperature": 23.288
+    },
+    {
+      "day": "2020-02-20",
+      "temperature": 23.333
+    },
+    {
+      "day": "2020-02-21",
+      "temperature": 23.378
+    },
+    {
+      "day": "2020-02-22",
+      "temperature": 23.421
+    },
+    {
+      "day": "2020-02-23",
+      "temperature": 23.464
+    },
+    {
+      "day": "2020-02-24",
+      "temperature": 23.505
+    },
+    {
+      "day": "2020-02-25",
+      "temperature": 23.546
+    },
+    {
+      "day": "2020-02-26",
+      "temperature": 23.586
+    },
+    {
+      "day": "2020-02-27",
+      "temperature": 23.625
+    },
+    {
+      "day": "2020-02-28",
+      "temperature": 23.662
+    },
+    {
+      "day": "2020-02-29",
+      "temperature": 23.699
+    },
+    {
+      "day": "2020-03-01",
+      "temperature": 23.735
+    },
+    {
+      "day": "2020-03-02",
+      "temperature": 23.77
+    },
+    {
+      "day": "2020-03-03",
+      "temperature": 23.804
+    },
+    {
+      "day": "2020-03-04",
+      "temperature": 23.836
+    },
+    {
+      "day": "2020-03-05",
+      "temperature": 23.868
+    },
+    {
+      "day": "2020-03-06",
+      "temperature": 23.899
+    },
+    {
+      "day": "2020-03-07",
+      "temperature": 23.928
+    },
+    {
+      "day": "2020-03-08",
+      "temperature": 23.957
+    },
+    {
+      "day": "2020-03-09",
+      "temperature": 23.984
+    },
+    {
+      "day": "2020-03-10",
+      "temperature": 24.01
+    },
+    {
+      "day": "2020-03-11",
+      "temperature": 24.035
+    },
+    {
+      "day": "2020-03-12",
+      "temperature": 24.059
+    },
+    {
+      "day": "2020-03-13",
+      "temperature": 24.082
+    },
+    {
+      "day": "2020-03-14",
+      "temperature": 24.104
+    },
+    {
+      "day": "2020-03-15",
+      "temperature": 24.125
+    },
+    {
+      "day": "2020-03-16",
+      "temperature": 24.145
+    },
+    {
+      "day": "2020-03-17",
+      "temperature": 24.163
+    },
+    {
+      "day": "2020-03-18",
+      "temperature": 24.18
+    },
+    {
+      "day": "2020-03-19",
+      "temperature": 24.196
+    },
+    {
+      "day": "2020-03-20",
+      "temperature": 24.211
+    },
+    {
+      "day": "2020-03-21",
+      "temperature": 24.225
+    },
+    {
+      "day": "2020-03-22",
+      "temperature": 24.238
+    },
+    {
+      "day": "2020-03-23",
+      "temperature": 24.249
+    },
+    {
+      "day": "2020-03-24",
+      "temperature": 24.26
+    },
+    {
+      "day": "2020-03-25",
+      "temperature": 24.269
+    },
+    {
+      "day": "2020-03-26",
+      "temperature": 24.277
+    },
+    {
+      "day": "2020-03-27",
+      "temperature": 24.284
+    },
+    {
+      "day": "2020-03-28",
+      "temperature": 24.289
+    },
+    {
+      "day": "2020-03-29",
+      "temperature": 24.294
+    },
+    {
+      "day": "2020-03-30",
+      "temperature": 24.297
+    },
+    {
+      "day": "2020-03-31",
+      "temperature": 24.299
+    },
+    {
+      "day": "2020-04-01",
+      "temperature": 24.3
+    },
+    {
+      "day": "2020-04-02",
+      "temperature": 24.3
+    },
+    {
+      "day": "2020-04-03",
+      "temperature": 24.298
+    },
+    {
+      "day": "2020-04-04",
+      "temperature": 24.296
+    },
+    {
+      "day": "2020-04-05",
+      "temperature": 24.292
+    },
+    {
+      "day": "2020-04-06",
+      "temperature": 24.287
+    },
+    {
+      "day": "2020-04-07",
+      "temperature": 24.28
+    },
+    {
+      "day": "2020-04-08",
+      "temperature": 24.273
+    },
+    {
+      "day": "2020-04-09",
+      "temperature": 24.264
+    },
+    {
+      "day": "2020-04-10",
+      "temperature": 24.255
+    },
+    {
+      "day": "2020-04-11",
+      "temperature": 24.244
+    },
+    {
+      "day": "2020-04-12",
+      "temperature": 24.232
+    },
+    {
+      "day": "2020-04-13",
+      "temperature": 24.218
+    },
+    {
+      "day": "2020-04-14",
+      "temperature": 24.204
+    },
+    {
+      "day": "2020-04-15",
+      "temperature": 24.188
+    },
+    {
+      "day": "2020-04-16",
+      "temperature": 24.172
+    },
+    {
+      "day": "2020-04-17",
+      "temperature": 24.154
+    },
+    {
+      "day": "2020-04-18",
+      "temperature": 24.135
+    },
+    {
+      "day": "2020-04-19",
+      "temperature": 24.115
+    },
+    {
+      "day": "2020-04-20",
+      "temperature": 24.093
+    },
+    {
+      "day": "2020-04-21",
+      "temperature": 24.071
+    },
+    {
+      "day": "2020-04-22",
+      "temperature": 24.048
+    },
+    {
+      "day": "2020-04-23",
+      "temperature": 24.023
+    },
+    {
+      "day": "2020-04-24",
+      "temperature": 23.997
+    },
+    {
+      "day": "2020-04-25",
+      "temperature": 23.97
+    },
+    {
+      "day": "2020-04-26",
+      "temperature": 23.942
+    },
+    {
+      "day": "2020-04-27",
+      "temperature": 23.913
+    },
+    {
+      "day": "2020-04-28",
+      "temperature": 23.883
+    },
+    {
+      "day": "2020-04-29",
+      "temperature": 23.852
+    },
+    {
+      "day": "2020-04-30",
+      "temperature": 23.82
+    },
+    {
+      "day": "2020-05-01",
+      "temperature": 23.787
+    },
+    {
+      "day": "2020-05-02",
+      "temperature": 23.753
+    },
+    {
+      "day": "2020-05-03",
+      "temperature": 23.717
+    },
+    {
+      "day": "2020-05-04",
+      "temperature": 23.681
+    },
+    {
+      "day": "2020-05-05",
+      "temperature": 23.644
+    },
+    {
+      "day": "2020-05-06",
+      "temperature": 23.605
+    },
+    {
+      "day": "2020-05-07",
+      "temperature": 23.566
+    },
+    {
+      "day": "2020-05-08",
+      "temperature": 23.526
+    },
+    {
+      "day": "2020-05-09",
+      "temperature": 23.485
+    },
+    {
+      "day": "2020-05-10",
+      "temperature": 23.443
+    },
+    {
+      "day": "2020-05-11",
+      "temperature": 23.4
+    },
+    {
+      "day": "2020-05-12",
+      "temperature": 23.356
+    },
+    {
+      "day": "2020-05-13",
+      "temperature": 23.311
+    },
+    {
+      "day": "2020-05-14",
+      "temperature": 23.265
+    },
+    {
+      "day": "2020-05-15",
+      "temperature": 23.218
+    },
+    {
+      "day": "2020-05-16",
+      "temperature": 23.171
+    },
+    {
+      "day": "2020-05-17",
+      "temperature": 23.122
+    },
+    {
+      "day": "2020-05-18",
+      "temperature": 23.073
+    },
+    {
+      "day": "2020-05-19",
+      "temperature": 23.023
+    },
+    {
+      "day": "2020-05-20",
+      "temperature": 22.972
+    },
+    {
+      "day": "2020-05-21",
+      "temperature": 22.921
+    },
+    {
+      "day": "2020-05-22",
+      "temperature": 22.868
+    },
+    {
+      "day": "2020-05-23",
+      "temperature": 22.815
+    },
+    {
+      "day": "2020-05-24",
+      "temperature": 22.761
+    },
+    {
+      "day": "2020-05-25",
+      "temperature": 22.706
+    },
+    {
+      "day": "2020-05-26",
+      "temperature": 22.651
+    },
+    {
+      "day": "2020-05-27",
+      "temperature": 22.595
+    },
+    {
+      "day": "2020-05-28",
+      "temperature": 22.538
+    },
+    {
+      "day": "2020-05-29",
+      "temperature": 22.481
+    },
+    {
+      "day": "2020-05-30",
+      "temperature": 22.423
+    },
+    {
+      "day": "2020-05-31",
+      "temperature": 22.364
+    },
+    {
+      "day": "2020-06-01",
+      "temperature": 22.305
+    },
+    {
+      "day": "2020-06-02",
+      "temperature": 22.245
+    },
+    {
+      "day": "2020-06-03",
+      "temperature": 22.185
+    },
+    {
+      "day": "2020-06-04",
+      "temperature": 22.124
+    },
+    {
+      "day": "2020-06-05",
+      "temperature": 22.062
+    },
+    {
+      "day": "2020-06-06",
+      "temperature": 22.0
+    },
+    {
+      "day": "2020-06-07",
+      "temperature": 21.937
+    },
+    {
+      "day": "2020-06-08",
+      "temperature": 21.874
+    },
+    {
+      "day": "2020-06-09",
+      "temperature": 21.811
+    },
+    {
+      "day": "2020-06-10",
+      "temperature": 21.747
+    },
+    {
+      "day": "2020-06-11",
+      "temperature": 21.682
+    },
+    {
+      "day": "2020-06-12",
+      "temperature": 21.618
+    },
+    {
+      "day": "2020-06-13",
+      "temperature": 21.552
+    },
+    {
+      "day": "2020-06-14",
+      "temperature": 21.487
+    },
+    {
+      "day": "2020-06-15",
+      "temperature": 21.421
+    },
+    {
+      "day": "2020-06-16",
+      "temperature": 21.355
+    },
+    {
+      "day": "2020-06-17",
+      "temperature": 21.288
+    },
+    {
+      "day": "2020-06-18",
+      "temperature": 21.221
+    },
+    {
+      "day": "2020-06-19",
+      "temperature": 21.154
+    },
+    {
+      "day": "2020-06-20",
+      "temperature": 21.087
+    },
+    {
+      "day": "2020-06-21",
+      "temperature": 21.019
+    },
+    {
+      "day": "2020-06-22",
+      "temperature": 20.951
+    },
+    {
+      "day": "2020-06-23",
+      "temperature": 20.883
+    },
+    {
+      "day": "2020-06-24",
+      "temperature": 20.815
+    },
+    {
+      "day": "2020-06-25",
+      "temperature": 20.747
+    },
+    {
+      "day": "2020-06-26",
+      "temperature": 20.678
+    },
+    {
+      "day": "2020-06-27",
+      "temperature": 20.61
+    },
+    {
+      "day": "2020-06-28",
+      "temperature": 20.541
+    },
+    {
+      "day": "2020-06-29",
+      "temperature": 20.472
+    },
+    {
+      "day": "2020-06-30",
+      "temperature": 20.403
+    },
+    {
+      "day": "2020-07-01",
+      "temperature": 20.334
+    },
+    {
+      "day": "2020-07-02",
+      "temperature": 20.266
+    },
+    {
+      "day": "2020-07-03",
+      "temperature": 20.197
+    },
+    {
+      "day": "2020-07-04",
+      "temperature": 20.128
+    },
+    {
+      "day": "2020-07-05",
+      "temperature": 20.059
+    },
+    {
+      "day": "2020-07-06",
+      "temperature": 19.99
+    },
+    {
+      "day": "2020-07-07",
+      "temperature": 19.922
+    },
+    {
+      "day": "2020-07-08",
+      "temperature": 19.853
+    },
+    {
+      "day": "2020-07-09",
+      "temperature": 19.785
+    },
+    {
+      "day": "2020-07-10",
+      "temperature": 19.717
+    },
+    {
+      "day": "2020-07-11",
+      "temperature": 19.649
+    },
+    {
+      "day": "2020-07-12",
+      "temperature": 19.581
+    },
+    {
+      "day": "2020-07-13",
+      "temperature": 19.513
+    },
+    {
+      "day": "2020-07-14",
+      "temperature": 19.446
+    },
+    {
+      "day": "2020-07-15",
+      "temperature": 19.379
+    },
+    {
+      "day": "2020-07-16",
+      "temperature": 19.312
+    },
+    {
+      "day": "2020-07-17",
+      "temperature": 19.245
+    },
+    {
+      "day": "2020-07-18",
+      "temperature": 19.179
+    },
+    {
+      "day": "2020-07-19",
+      "temperature": 19.113
+    },
+    {
+      "day": "2020-07-20",
+      "temperature": 19.048
+    },
+    {
+      "day": "2020-07-21",
+      "temperature": 18.982
+    },
+    {
+      "day": "2020-07-22",
+      "temperature": 18.918
+    },
+    {
+      "day": "2020-07-23",
+      "temperature": 18.853
+    },
+    {
+      "day": "2020-07-24",
+      "temperature": 18.789
+    },
+    {
+      "day": "2020-07-25",
+      "temperature": 18.726
+    },
+    {
+      "day": "2020-07-26",
+      "temperature": 18.663
+    },
+    {
+      "day": "2020-07-27",
+      "temperature": 18.6
+    },
+    {
+      "day": "2020-07-28",
+      "temperature": 18.538
+    },
+    {
+      "day": "2020-07-29",
+      "temperature": 18.476
+    },
+    {
+      "day": "2020-07-30",
+      "temperature": 18.415
+    },
+    {
+      "day": "2020-07-31",
+      "temperature": 18.355
+    },
+    {
+      "day": "2020-08-01",
+      "temperature": 18.295
+    },
+    {
+      "day": "2020-08-02",
+      "temperature": 18.236
+    },
+    {
+      "day": "2020-08-03",
+      "temperature": 18.177
+    },
+    {
+      "day": "2020-08-04",
+      "temperature": 18.119
+    },
+    {
+      "day": "2020-08-05",
+      "temperature": 18.062
+    },
+    {
+      "day": "2020-08-06",
+      "temperature": 18.005
+    },
+    {
+      "day": "2020-08-07",
+      "temperature": 17.949
+    },
+    {
+      "day": "2020-08-08",
+      "temperature": 17.894
+    },
+    {
+      "day": "2020-08-09",
+      "temperature": 17.839
+    },
+    {
+      "day": "2020-08-10",
+      "temperature": 17.785
+    },
+    {
+      "day": "2020-08-11",
+      "temperature": 17.732
+    },
+    {
+      "day": "2020-08-12",
+      "temperature": 17.679
+    },
+    {
+      "day": "2020-08-13",
+      "temperature": 17.628
+    },
+    {
+      "day": "2020-08-14",
+      "temperature": 17.577
+    },
+    {
+      "day": "2020-08-15",
+      "temperature": 17.527
+    },
+    {
+      "day": "2020-08-16",
+      "temperature": 17.478
+    },
+    {
+      "day": "2020-08-17",
+      "temperature": 17.429
+    },
+    {
+      "day": "2020-08-18",
+      "temperature": 17.382
+    },
+    {
+      "day": "2020-08-19",
+      "temperature": 17.335
+    },
+    {
+      "day": "2020-08-20",
+      "temperature": 17.289
+    },
+    {
+      "day": "2020-08-21",
+      "temperature": 17.244
+    },
+    {
+      "day": "2020-08-22",
+      "temperature": 17.2
+    },
+    {
+      "day": "2020-08-23",
+      "temperature": 17.157
+    },
+    {
+      "day": "2020-08-24",
+      "temperature": 17.115
+    },
+    {
+      "day": "2020-08-25",
+      "temperature": 17.074
+    },
+    {
+      "day": "2020-08-26",
+      "temperature": 17.034
+    },
+    {
+      "day": "2020-08-27",
+      "temperature": 16.995
+    },
+    {
+      "day": "2020-08-28",
+      "temperature": 16.956
+    },
+    {
+      "day": "2020-08-29",
+      "temperature": 16.919
+    },
+    {
+      "day": "2020-08-30",
+      "temperature": 16.883
+    },
+    {
+      "day": "2020-08-31",
+      "temperature": 16.847
+    },
+    {
+      "day": "2020-09-01",
+      "temperature": 16.813
+    },
+    {
+      "day": "2020-09-02",
+      "temperature": 16.78
+    },
+    {
+      "day": "2020-09-03",
+      "temperature": 16.748
+    },
+    {
+      "day": "2020-09-04",
+      "temperature": 16.717
+    },
+    {
+      "day": "2020-09-05",
+      "temperature": 16.687
+    },
+    {
+      "day": "2020-09-06",
+      "temperature": 16.658
+    },
+    {
+      "day": "2020-09-07",
+      "temperature": 16.63
+    },
+    {
+      "day": "2020-09-08",
+      "temperature": 16.603
+    },
+    {
+      "day": "2020-09-09",
+      "temperature": 16.577
+    },
+    {
+      "day": "2020-09-10",
+      "temperature": 16.552
+    },
+    {
+      "day": "2020-09-11",
+      "temperature": 16.529
+    },
+    {
+      "day": "2020-09-12",
+      "temperature": 16.507
+    },
+    {
+      "day": "2020-09-13",
+      "temperature": 16.485
+    },
+    {
+      "day": "2020-09-14",
+      "temperature": 16.465
+    },
+    {
+      "day": "2020-09-15",
+      "temperature": 16.446
+    },
+    {
+      "day": "2020-09-16",
+      "temperature": 16.428
+    },
+    {
+      "day": "2020-09-17",
+      "temperature": 16.412
+    },
+    {
+      "day": "2020-09-18",
+      "temperature": 16.396
+    },
+    {
+      "day": "2020-09-19",
+      "temperature": 16.382
+    },
+    {
+      "day": "2020-09-20",
+      "temperature": 16.368
+    },
+    {
+      "day": "2020-09-21",
+      "temperature": 16.356
+    },
+    {
+      "day": "2020-09-22",
+      "temperature": 16.345
+    },
+    {
+      "day": "2020-09-23",
+      "temperature": 16.336
+    },
+    {
+      "day": "2020-09-24",
+      "temperature": 16.327
+    },
+    {
+      "day": "2020-09-25",
+      "temperature": 16.32
+    },
+    {
+      "day": "2020-09-26",
+      "temperature": 16.313
+    },
+    {
+      "day": "2020-09-27",
+      "temperature": 16.308
+    },
+    {
+      "day": "2020-09-28",
+      "temperature": 16.304
+    },
+    {
+      "day": "2020-09-29",
+      "temperature": 16.302
+    },
+    {
+      "day": "2020-09-30",
+      "temperature": 16.3
+    },
+    {
+      "day": "2020-10-01",
+      "temperature": 16.3
+    },
+    {
+      "day": "2020-10-02",
+      "temperature": 16.301
+    },
+    {
+      "day": "2020-10-03",
+      "temperature": 16.303
+    },
+    {
+      "day": "2020-10-04",
+      "temperature": 16.306
+    },
+    {
+      "day": "2020-10-05",
+      "temperature": 16.311
+    },
+    {
+      "day": "2020-10-06",
+      "temperature": 16.316
+    },
+    {
+      "day": "2020-10-07",
+      "temperature": 16.323
+    },
+    {
+      "day": "2020-10-08",
+      "temperature": 16.331
+    },
+    {
+      "day": "2020-10-09",
+      "temperature": 16.34
+    },
+    {
+      "day": "2020-10-10",
+      "temperature": 16.351
+    },
+    {
+      "day": "2020-10-11",
+      "temperature": 16.362
+    },
+    {
+      "day": "2020-10-12",
+      "temperature": 16.375
+    },
+    {
+      "day": "2020-10-13",
+      "temperature": 16.389
+    },
+    {
+      "day": "2020-10-14",
+      "temperature": 16.404
+    },
+    {
+      "day": "2020-10-15",
+      "temperature": 16.42
+    },
+    {
+      "day": "2020-10-16",
+      "temperature": 16.437
+    },
+    {
+      "day": "2020-10-17",
+      "temperature": 16.455
+    },
+    {
+      "day": "2020-10-18",
+      "temperature": 16.475
+    },
+    {
+      "day": "2020-10-19",
+      "temperature": 16.496
+    },
+    {
+      "day": "2020-10-20",
+      "temperature": 16.518
+    },
+    {
+      "day": "2020-10-21",
+      "temperature": 16.541
+    },
+    {
+      "day": "2020-10-22",
+      "temperature": 16.565
+    },
+    {
+      "day": "2020-10-23",
+      "temperature": 16.59
+    },
+    {
+      "day": "2020-10-24",
+      "temperature": 16.616
+    },
+    {
+      "day": "2020-10-25",
+      "temperature": 16.643
+    },
+    {
+      "day": "2020-10-26",
+      "temperature": 16.672
+    },
+    {
+      "day": "2020-10-27",
+      "temperature": 16.701
+    },
+    {
+      "day": "2020-10-28",
+      "temperature": 16.732
+    },
+    {
+      "day": "2020-10-29",
+      "temperature": 16.764
+    },
+    {
+      "day": "2020-10-30",
+      "temperature": 16.796
+    },
+    {
+      "day": "2020-10-31",
+      "temperature": 16.83
+    },
+    {
+      "day": "2020-11-01",
+      "temperature": 16.865
+    },
+    {
+      "day": "2020-11-02",
+      "temperature": 16.901
+    },
+    {
+      "day": "2020-11-03",
+      "temperature": 16.938
+    },
+    {
+      "day": "2020-11-04",
+      "temperature": 16.975
+    },
+    {
+      "day": "2020-11-05",
+      "temperature": 17.014
+    },
+    {
+      "day": "2020-11-06",
+      "temperature": 17.054
+    },
+    {
+      "day": "2020-11-07",
+      "temperature": 17.095
+    },
+    {
+      "day": "2020-11-08",
+      "temperature": 17.136
+    },
+    {
+      "day": "2020-11-09",
+      "temperature": 17.179
+    },
+    {
+      "day": "2020-11-10",
+      "temperature": 17.222
+    },
+    {
+      "day": "2020-11-11",
+      "temperature": 17.267
+    },
+    {
+      "day": "2020-11-12",
+      "temperature": 17.312
+    },
+    {
+      "day": "2020-11-13",
+      "temperature": 17.358
+    },
+    {
+      "day": "2020-11-14",
+      "temperature": 17.405
+    },
+    {
+      "day": "2020-11-15",
+      "temperature": 17.453
+    },
+    {
+      "day": "2020-11-16",
+      "temperature": 17.502
+    },
+    {
+      "day": "2020-11-17",
+      "temperature": 17.552
+    },
+    {
+      "day": "2020-11-18",
+      "temperature": 17.602
+    },
+    {
+      "day": "2020-11-19",
+      "temperature": 17.653
+    },
+    {
+      "day": "2020-11-20",
+      "temperature": 17.705
+    },
+    {
+      "day": "2020-11-21",
+      "temperature": 17.758
+    },
+    {
+      "day": "2020-11-22",
+      "temperature": 17.812
+    },
+    {
+      "day": "2020-11-23",
+      "temperature": 17.866
+    },
+    {
+      "day": "2020-11-24",
+      "temperature": 17.921
+    },
+    {
+      "day": "2020-11-25",
+      "temperature": 17.977
+    },
+    {
+      "day": "2020-11-26",
+      "temperature": 18.033
+    },
+    {
+      "day": "2020-11-27",
+      "temperature": 18.09
+    },
+    {
+      "day": "2020-11-28",
+      "temperature": 18.148
+    },
+    {
+      "day": "2020-11-29",
+      "temperature": 18.206
+    },
+    {
+      "day": "2020-11-30",
+      "temperature": 18.265
+    },
+    {
+      "day": "2020-12-01",
+      "temperature": 18.325
+    },
+    {
+      "day": "2020-12-02",
+      "temperature": 18.385
+    },
+    {
+      "day": "2020-12-03",
+      "temperature": 18.446
+    },
+    {
+      "day": "2020-12-04",
+      "temperature": 18.507
+    },
+    {
+      "day": "2020-12-05",
+      "temperature": 18.569
+    },
+    {
+      "day": "2020-12-06",
+      "temperature": 18.631
+    },
+    {
+      "day": "2020-12-07",
+      "temperature": 18.694
+    },
+    {
+      "day": "2020-12-08",
+      "temperature": 18.757
+    },
+    {
+      "day": "2020-12-09",
+      "temperature": 18.821
+    },
+    {
+      "day": "2020-12-10",
+      "temperature": 18.885
+    },
+    {
+      "day": "2020-12-11",
+      "temperature": 18.95
+    },
+    {
+      "day": "2020-12-12",
+      "temperature": 19.015
+    },
+    {
+      "day": "2020-12-13",
+      "temperature": 19.08
+    },
+    {
+      "day": "2020-12-14",
+      "temperature": 19.146
+    },
+    {
+      "day": "2020-12-15",
+      "temperature": 19.212
+    },
+    {
+      "day": "2020-12-16",
+      "temperature": 19.279
+    },
+    {
+      "day": "2020-12-17",
+      "temperature": 19.345
+    },
+    {
+      "day": "2020-12-18",
+      "temperature": 19.412
+    },
+    {
+      "day": "2020-12-19",
+      "temperature": 19.48
+    },
+    {
+      "day": "2020-12-20",
+      "temperature": 19.547
+    },
+    {
+      "day": "2020-12-21",
+      "temperature": 19.615
+    },
+    {
+      "day": "2020-12-22",
+      "temperature": 19.683
+    },
+    {
+      "day": "2020-12-23",
+      "temperature": 19.751
+    },
+    {
+      "day": "2020-12-24",
+      "temperature": 19.819
+    },
+    {
+      "day": "2020-12-25",
+      "temperature": 19.888
+    },
+    {
+      "day": "2020-12-26",
+      "temperature": 24.956
+    },
+    {
+      "day": "2020-12-27",
+      "temperature": 25.025
+    },
+    {
+      "day": "2020-12-28",
+      "temperature": 25.094
+    },
+    {
+      "day": "2020-12-29",
+      "temperature": 25.162
+    },
+    {
+      "day": "2020-12-30",
+      "temperature": 25.231
+    },
+    {
+      "day": "2021-01-01",
+      "temperature": 25.45
+    },
+    {
+      "day": "2021-01-02",
+      "temperature": 25.519
+    },
+    {
+      "day": "2021-01-03",
+      "temperature": 25.588
+    },
+    {
+      "day": "2021-01-04",
+      "temperature": 25.656
+    },
+    {
+      "day": "2021-01-05",
+      "temperature": 25.725
+    },
+    {
+      "day": "2021-01-06",
+      "temperature": 25.794
+    },
+    {
+      "day": "2021-01-07",
+      "temperature": 25.862
+    },
+    {
+      "day": "2021-01-08",
+      "temperature": 25.931
+    },
+    {
+      "day": "2021-01-09",
+      "temperature": 20.999
+    },
+    {
+      "day": "2021-01-10",
+      "temperature": 21.067
+    },
+    {
+      "day": "2021-01-11",
+      "temperature": 21.135
+    },
+    {
+      "day": "2021-01-12",
+      "temperature": 21.203
+    },
+    {
+      "day": "2021-01-13",
+      "temperature": 21.27
+    },
+    {
+      "day": "2021-01-14",
+      "temperature": 21.338
+    },
+    {
+      "day": "2021-01-15",
+      "temperature": 21.405
+    },
+    {
+      "day": "2021-01-16",
+      "temperature": 21.471
+    },
+    {
+      "day": "2021-01-17",
+      "temperature": 21.538
+    },
+    {
+      "day": "2021-01-18",
+      "temperature": 21.604
+    },
+    {
+      "day": "2021-01-19",
+      "temperature": 21.67
+    },
+    {
+      "day": "2021-01-20",
+      "temperature": 21.735
+    },
+    {
+      "day": "2021-01-21",
+      "temperature": 21.8
+    },
+    {
+      "day": "2021-01-22",
+      "temperature": 21.865
+    },
+    {
+      "day": "2021-01-23",
+      "temperature": 21.929
+    },
+    {
+      "day": "2021-01-24",
+      "temperature": 21.993
+    },
+    {
+      "day": "2021-01-25",
+      "temperature": 22.056
+    },
+    {
+      "day": "2021-01-26",
+      "temperature": 22.119
+    },
+    {
+      "day": "2021-01-27",
+      "temperature": 22.181
+    },
+    {
+      "day": "2021-01-28",
+      "temperature": 22.243
+    },
+    {
+      "day": "2021-01-29",
+      "temperature": 22.304
+    },
+    {
+      "day": "2021-01-30",
+      "temperature": 22.365
+    },
+    {
+      "day": "2021-01-31",
+      "temperature": 22.425
+    },
+    {
+      "day": "2021-02-01",
+      "temperature": 22.485
+    },
+    {
+      "day": "2021-02-02",
+      "temperature": 22.544
+    },
+    {
+      "day": "2021-02-03",
+      "temperature": 22.602
+    },
+    {
+      "day": "2021-02-04",
+      "temperature": 22.66
+    },
+    {
+      "day": "2021-02-05",
+      "temperature": 22.717
+    },
+    {
+      "day": "2021-02-06",
+      "temperature": 22.773
+    },
+    {
+      "day": "2021-02-07",
+      "temperature": 22.829
+    },
+    {
+      "day": "2021-02-08",
+      "temperature": 22.884
+    },
+    {
+      "day": "2021-02-09",
+      "temperature": 22.938
+    },
+    {
+      "day": "2021-02-10",
+      "temperature": 22.992
+    },
+    {
+      "day": "2021-02-11",
+      "temperature": 23.045
+    },
+    {
+      "day": "2021-02-12",
+      "temperature": 23.097
+    },
+    {
+      "day": "2021-02-13",
+      "temperature": 23.148
+    },
+    {
+      "day": "2021-02-14",
+      "temperature": 23.198
+    },
+    {
+      "day": "2021-02-15",
+      "temperature": 23.248
+    },
+    {
+      "day": "2021-02-16",
+      "temperature": 23.297
+    },
+    {
+      "day": "2021-02-17",
+      "temperature": 23.345
+    },
+    {
+      "day": "2021-02-18",
+      "temperature": 23.392
+    },
+    {
+      "day": "2021-02-19",
+      "temperature": 23.438
+    },
+    {
+      "day": "2021-02-20",
+      "temperature": 23.483
+    },
+    {
+      "day": "2021-02-21",
+      "temperature": 23.528
+    },
+    {
+      "day": "2021-02-22",
+      "temperature": 23.571
+    },
+    {
+      "day": "2021-02-23",
+      "temperature": 23.614
+    },
+    {
+      "day": "2021-02-24",
+      "temperature": 23.655
+    },
+    {
+      "day": "2021-02-25",
+      "temperature": 23.696
+    },
+    {
+      "day": "2021-02-26",
+      "temperature": 23.736
+    },
+    {
+      "day": "2021-02-27",
+      "temperature": 23.775
+    },
+    {
+      "day": "2021-02-28",
+      "temperature": 23.812
+    },
+    {
+      "day": "2021-03-01",
+      "temperature": 23.849
+    },
+    {
+      "day": "2021-03-02",
+      "temperature": 23.885
+    },
+    {
+      "day": "2021-03-03",
+      "temperature": 23.92
+    },
+    {
+      "day": "2021-03-04",
+      "temperature": 23.954
+    },
+    {
+      "day": "2021-03-05",
+      "temperature": 23.986
+    },
+    {
+      "day": "2021-03-06",
+      "temperature": 24.018
+    },
+    {
+      "day": "2021-03-07",
+      "temperature": 24.049
+    },
+    {
+      "day": "2021-03-08",
+      "temperature": 24.078
+    },
+    {
+      "day": "2021-03-09",
+      "temperature": 24.107
+    },
+    {
+      "day": "2021-03-10",
+      "temperature": 24.134
+    },
+    {
+      "day": "2021-03-11",
+      "temperature": 24.16
+    },
+    {
+      "day": "2021-03-12",
+      "temperature": 24.185
+    },
+    {
+      "day": "2021-03-13",
+      "temperature": 24.209
+    },
+    {
+      "day": "2021-03-14",
+      "temperature": 24.232
+    },
+    {
+      "day": "2021-03-15",
+      "temperature": 24.254
+    },
+    {
+      "day": "2021-03-16",
+      "temperature": 24.275
+    },
+    {
+      "day": "2021-03-17",
+      "temperature": 24.295
+    },
+    {
+      "day": "2021-03-18",
+      "temperature": 24.313
+    },
+    {
+      "day": "2021-03-19",
+      "temperature": 24.33
+    },
+    {
+      "day": "2021-03-20",
+      "temperature": 24.346
+    },
+    {
+      "day": "2021-03-21",
+      "temperature": 24.361
+    },
+    {
+      "day": "2021-03-22",
+      "temperature": 24.375
+    },
+    {
+      "day": "2021-03-23",
+      "temperature": 24.388
+    },
+    {
+      "day": "2021-03-24",
+      "temperature": 24.399
+    },
+    {
+      "day": "2021-03-25",
+      "temperature": 24.41
+    },
+    {
+      "day": "2021-03-26",
+      "temperature": 24.419
+    },
+    {
+      "day": "2021-03-27",
+      "temperature": 24.427
+    },
+    {
+      "day": "2021-03-28",
+      "temperature": 24.434
+    },
+    {
+      "day": "2021-03-29",
+      "temperature": 24.439
+    },
+    {
+      "day": "2021-03-30",
+      "temperature": 24.444
+    },
+    {
+      "day": "2021-03-31",
+      "temperature": 24.447
+    },
+    {
+      "day": "2021-04-01",
+      "temperature": 24.449
+    },
+    {
+      "day": "2021-04-02",
+      "temperature": 24.45
+    },
+    {
+      "day": "2021-04-03",
+      "temperature": 24.45
+    },
+    {
+      "day": "2021-04-04",
+      "temperature": 24.448
+    },
+    {
+      "day": "2021-04-05",
+      "temperature": 24.446
+    },
+    {
+      "day": "2021-04-06",
+      "temperature": 24.442
+    },
+    {
+      "day": "2021-04-07",
+      "temperature": 24.437
+    },
+    {
+      "day": "2021-04-08",
+      "temperature": 24.43
+    },
+    {
+      "day": "2021-04-09",
+      "temperature": 24.423
+    },
+    {
+      "day": "2021-04-10",
+      "temperature": 24.414
+    },
+    {
+      "day": "2021-04-11",
+      "temperature": 24.405
+    },
+    {
+      "day": "2021-04-12",
+      "temperature": 24.394
+    },
+    {
+      "day": "2021-04-13",
+      "temperature": 24.382
+    },
+    {
+      "day": "2021-04-14",
+      "temperature": 24.368
+    },
+    {
+      "day": "2021-04-15",
+      "temperature": 24.354
+    },
+    {
+      "day": "2021-04-16",
+      "temperature": 24.338
+    },
+    {
+      "day": "2021-04-17",
+      "temperature": 24.322
+    },
+    {
+      "day": "2021-04-18",
+      "temperature": 24.304
+    },
+    {
+      "day": "2021-04-19",
+      "temperature": 24.285
+    },
+    {
+      "day": "2021-04-20",
+      "temperature": 24.265
+    },
+    {
+      "day": "2021-04-21",
+      "temperature": 24.243
+    },
+    {
+      "day": "2021-04-22",
+      "temperature": 24.221
+    },
+    {
+      "day": "2021-04-23",
+      "temperature": 24.198
+    },
+    {
+      "day": "2021-04-24",
+      "temperature": 24.173
+    },
+    {
+      "day": "2021-04-25",
+      "temperature": 24.147
+    },
+    {
+      "day": "2021-04-26",
+      "temperature": 24.12
+    },
+    {
+      "day": "2021-04-27",
+      "temperature": 24.092
+    },
+    {
+      "day": "2021-04-28",
+      "temperature": 24.063
+    },
+    {
+      "day": "2021-04-29",
+      "temperature": 24.033
+    },
+    {
+      "day": "2021-04-30",
+      "temperature": 24.002
+    },
+    {
+      "day": "2021-05-01",
+      "temperature": 23.97
+    },
+    {
+      "day": "2021-05-02",
+      "temperature": 23.937
+    },
+    {
+      "day": "2021-05-03",
+      "temperature": 23.903
+    },
+    {
+      "day": "2021-05-04",
+      "temperature": 23.867
+    },
+    {
+      "day": "2021-05-05",
+      "temperature": 23.831
+    },
+    {
+      "day": "2021-05-06",
+      "temperature": 23.794
+    },
+    {
+      "day": "2021-05-07",
+      "temperature": 23.755
+    },
+    {
+      "day": "2021-05-08",
+      "temperature": 23.716
+    },
+    {
+      "day": "2021-05-09",
+      "temperature": 23.676
+    },
+    {
+      "day": "2021-05-10",
+      "temperature": 23.635
+    },
+    {
+      "day": "2021-05-11",
+      "temperature": 23.593
+    },
+    {
+      "day": "2021-05-12",
+      "temperature": 23.55
+    },
+    {
+      "day": "2021-05-13",
+      "temperature": 23.506
+    },
+    {
+      "day": "2021-05-14",
+      "temperature": 23.461
+    },
+    {
+      "day": "2021-05-15",
+      "temperature": 23.415
+    },
+    {
+      "day": "2021-05-16",
+      "temperature": 23.368
+    },
+    {
+      "day": "2021-05-17",
+      "temperature": 23.321
+    },
+    {
+      "day": "2021-05-18",
+      "temperature": 23.272
+    },
+    {
+      "day": "2021-05-19",
+      "temperature": 23.223
+    },
+    {
+      "day": "2021-05-20",
+      "temperature": 23.173
+    },
+    {
+      "day": "2021-05-21",
+      "temperature": 23.122
+    },
+    {
+      "day": "2021-05-22",
+      "temperature": 23.071
+    },
+    {
+      "day": "2021-05-23",
+      "temperature": 23.018
+    },
+    {
+      "day": "2021-05-24",
+      "temperature": 22.965
+    },
+    {
+      "day": "2021-05-25",
+      "temperature": 22.911
+    },
+    {
+      "day": "2021-05-26",
+      "temperature": 22.856
+    },
+    {
+      "day": "2021-05-27",
+      "temperature": 22.801
+    },
+    {
+      "day": "2021-05-28",
+      "temperature": 22.745
+    },
+    {
+      "day": "2021-05-29",
+      "temperature": 22.688
+    },
+    {
+      "day": "2021-05-30",
+      "temperature": 22.631
+    },
+    {
+      "day": "2021-05-31",
+      "temperature": 22.573
+    },
+    {
+      "day": "2021-06-01",
+      "temperature": 22.514
+    },
+    {
+      "day": "2021-06-02",
+      "temperature": 22.455
+    },
+    {
+      "day": "2021-06-03",
+      "temperature": 22.395
+    },
+    {
+      "day": "2021-06-04",
+      "temperature": 22.335
+    },
+    {
+      "day": "2021-06-05",
+      "temperature": 22.274
+    },
+    {
+      "day": "2021-06-06",
+      "temperature": 22.212
+    },
+    {
+      "day": "2021-06-07",
+      "temperature": 22.15
+    },
+    {
+      "day": "2021-06-08",
+      "temperature": 22.087
+    },
+    {
+      "day": "2021-06-09",
+      "temperature": 22.024
+    },
+    {
+      "day": "2021-06-10",
+      "temperature": 21.961
+    },
+    {
+      "day": "2021-06-11",
+      "temperature": 21.897
+    },
+    {
+      "day": "2021-06-12",
+      "temperature": 21.832
+    },
+    {
+      "day": "2021-06-13",
+      "temperature": 21.768
+    },
+    {
+      "day": "2021-06-14",
+      "temperature": 21.702
+    },
+    {
+      "day": "2021-06-15",
+      "temperature": 21.637
+    },
+    {
+      "day": "2021-06-16",
+      "temperature": 21.571
+    },
+    {
+      "day": "2021-06-17",
+      "temperature": 21.505
+    },
+    {
+      "day": "2021-06-18",
+      "temperature": 21.438
+    },
+    {
+      "day": "2021-06-19",
+      "temperature": 21.371
+    },
+    {
+      "day": "2021-06-20",
+      "temperature": 21.304
+    },
+    {
+      "day": "2021-06-21",
+      "temperature": 21.237
+    },
+    {
+      "day": "2021-06-22",
+      "temperature": 21.169
+    },
+    {
+      "day": "2021-06-23",
+      "temperature": 21.101
+    },
+    {
+      "day": "2021-06-24",
+      "temperature": 21.033
+    },
+    {
+      "day": "2021-06-25",
+      "temperature": 20.965
+    },
+    {
+      "day": "2021-06-26",
+      "temperature": 20.897
+    },
+    {
+      "day": "2021-06-27",
+      "temperature": 20.828
+    },
+    {
+      "day": "2021-06-28",
+      "temperature": 20.76
+    },
+    {
+      "day": "2021-06-29",
+      "temperature": 20.691
+    },
+    {
+      "day": "2021-06-30",
+      "temperature": 20.622
+    },
+    {
+      "day": "2021-07-01",
+      "temperature": 20.553
+    },
+    {
+      "day": "2021-07-02",
+      "temperature": 20.484
+    },
+    {
+      "day": "2021-07-03",
+      "temperature": 20.416
+    },
+    {
+      "day": "2021-07-04",
+      "temperature": 20.347
+    },
+    {
+      "day": "2021-07-05",
+      "temperature": 20.278
+    },
+    {
+      "day": "2021-07-06",
+      "temperature": 20.209
+    },
+    {
+      "day": "2021-07-07",
+      "temperature": 20.14
+    },
+    {
+      "day": "2021-07-08",
+      "temperature": 20.072
+    },
+    {
+      "day": "2021-07-09",
+      "temperature": 20.003
+    },
+    {
+      "day": "2021-07-10",
+      "temperature": 19.935
+    },
+    {
+      "day": "2021-07-11",
+      "temperature": 19.867
+    },
+    {
+      "day": "2021-07-12",
+      "temperature": 19.799
+    },
+    {
+      "day": "2021-07-13",
+      "temperature": 19.731
+    },
+    {
+      "day": "2021-07-14",
+      "temperature": 19.663
+    },
+    {
+      "day": "2021-07-15",
+      "temperature": 19.596
+    },
+    {
+      "day": "2021-07-16",
+      "temperature": 19.529
+    },
+    {
+      "day": "2021-07-17",
+      "temperature": 19.462
+    },
+    {
+      "day": "2021-07-18",
+      "temperature": 19.395
+    },
+    {
+      "day": "2021-07-19",
+      "temperature": 19.329
+    },
+    {
+      "day": "2021-07-20",
+      "temperature": 19.263
+    },
+    {
+      "day": "2021-07-21",
+      "temperature": 19.198
+    },
+    {
+      "day": "2021-07-22",
+      "temperature": 19.132
+    },
+    {
+      "day": "2021-07-23",
+      "temperature": 19.068
+    },
+    {
+      "day": "2021-07-24",
+      "temperature": 19.003
+    },
+    {
+      "day": "2021-07-25",
+      "temperature": 18.939
+    },
+    {
+      "day": "2021-07-26",
+      "temperature": 18.876
+    },
+    {
+      "day": "2021-07-27",
+      "temperature": 18.813
+    },
+    {
+      "day": "2021-07-28",
+      "temperature": 18.75
+    },
+    {
+      "day": "2021-07-29",
+      "temperature": 18.688
+    },
+    {
+      "day": "2021-07-30",
+      "temperature": 18.626
+    },
+    {
+      "day": "2021-07-31",
+      "temperature": 18.565
+    },
+    {
+      "day": "2021-08-01",
+      "temperature": 18.505
+    },
+    {
+      "day": "2021-08-02",
+      "temperature": 18.445
+    },
+    {
+      "day": "2021-08-03",
+      "temperature": 18.386
+    },
+    {
+      "day": "2021-08-04",
+      "temperature": 18.327
+    },
+    {
+      "day": "2021-08-05",
+      "temperature": 18.269
+    },
+    {
+      "day": "2021-08-06",
+      "temperature": 18.212
+    },
+    {
+      "day": "2021-08-07",
+      "temperature": 18.155
+    },
+    {
+      "day": "2021-08-08",
+      "temperature": 18.099
+    },
+    {
+      "day": "2021-08-09",
+      "temperature": 18.044
+    },
+    {
+      "day": "2021-08-10",
+      "temperature": 17.989
+    },
+    {
+      "day": "2021-08-11",
+      "temperature": 17.935
+    },
+    {
+      "day": "2021-08-12",
+      "temperature": 17.882
+    },
+    {
+      "day": "2021-08-13",
+      "temperature": 17.829
+    },
+    {
+      "day": "2021-08-14",
+      "temperature": 17.778
+    },
+    {
+      "day": "2021-08-15",
+      "temperature": 17.727
+    },
+    {
+      "day": "2021-08-16",
+      "temperature": 17.677
+    },
+    {
+      "day": "2021-08-17",
+      "temperature": 17.628
+    },
+    {
+      "day": "2021-08-18",
+      "temperature": 17.579
+    },
+    {
+      "day": "2021-08-19",
+      "temperature": 17.532
+    },
+    {
+      "day": "2021-08-20",
+      "temperature": 17.485
+    },
+    {
+      "day": "2021-08-21",
+      "temperature": 17.439
+    },
+    {
+      "day": "2021-08-22",
+      "temperature": 17.394
+    },
+    {
+      "day": "2021-08-23",
+      "temperature": 17.35
+    },
+    {
+      "day": "2021-08-24",
+      "temperature": 17.307
+    },
+    {
+      "day": "2021-08-25",
+      "temperature": 17.265
+    },
+    {
+      "day": "2021-08-26",
+      "temperature": 17.224
+    },
+    {
+      "day": "2021-08-27",
+      "temperature": 17.184
+    },
+    {
+      "day": "2021-08-28",
+      "temperature": 17.145
+    },
+    {
+      "day": "2021-08-29",
+      "temperature": 17.106
+    },
+    {
+      "day": "2021-08-30",
+      "temperature": 17.069
+    },
+    {
+      "day": "2021-08-31",
+      "temperature": 17.033
+    },
+    {
+      "day": "2021-09-01",
+      "temperature": 16.997
+    },
+    {
+      "day": "2021-09-02",
+      "temperature": 16.963
+    },
+    {
+      "day": "2021-09-03",
+      "temperature": 16.93
+    },
+    {
+      "day": "2021-09-04",
+      "temperature": 16.898
+    },
+    {
+      "day": "2021-09-05",
+      "temperature": 16.867
+    },
+    {
+      "day": "2021-09-06",
+      "temperature": 16.837
+    },
+    {
+      "day": "2021-09-07",
+      "temperature": 16.808
+    },
+    {
+      "day": "2021-09-08",
+      "temperature": 16.78
+    },
+    {
+      "day": "2021-09-09",
+      "temperature": 16.753
+    },
+    {
+      "day": "2021-09-10",
+      "temperature": 16.727
+    },
+    {
+      "day": "2021-09-11",
+      "temperature": 16.702
+    },
+    {
+      "day": "2021-09-12",
+      "temperature": 16.679
+    },
+    {
+      "day": "2021-09-13",
+      "temperature": 16.657
+    },
+    {
+      "day": "2021-09-14",
+      "temperature": 16.635
+    },
+    {
+      "day": "2021-09-15",
+      "temperature": 16.615
+    },
+    {
+      "day": "2021-09-16",
+      "temperature": 16.596
+    },
+    {
+      "day": "2021-09-17",
+      "temperature": 16.578
+    },
+    {
+      "day": "2021-09-18",
+      "temperature": 16.562
+    },
+    {
+      "day": "2021-09-19",
+      "temperature": 16.546
+    },
+    {
+      "day": "2021-09-20",
+      "temperature": 16.532
+    },
+    {
+      "day": "2021-09-21",
+      "temperature": 16.518
+    },
+    {
+      "day": "2021-09-22",
+      "temperature": 16.506
+    },
+    {
+      "day": "2021-09-23",
+      "temperature": 16.495
+    },
+    {
+      "day": "2021-09-24",
+      "temperature": 16.486
+    },
+    {
+      "day": "2021-09-25",
+      "temperature": 16.477
+    },
+    {
+      "day": "2021-09-26",
+      "temperature": 16.47
+    },
+    {
+      "day": "2021-09-27",
+      "temperature": 16.463
+    },
+    {
+      "day": "2021-09-28",
+      "temperature": 16.458
+    },
+    {
+      "day": "2021-09-29",
+      "temperature": 16.454
+    },
+    {
+      "day": "2021-09-30",
+      "temperature": 16.452
+    },
+    {
+      "day": "2021-10-01",
+      "temperature": 16.45
+    },
+    {
+      "day": "2021-10-02",
+      "temperature": 16.45
+    },
+    {
+      "day": "2021-10-03",
+      "temperature": 16.451
+    },
+    {
+      "day": "2021-10-04",
+      "temperature": 16.453
+    },
+    {
+      "day": "2021-10-05",
+      "temperature": 16.456
+    },
+    {
+      "day": "2021-10-06",
+      "temperature": 16.461
+    },
+    {
+      "day": "2021-10-07",
+      "temperature": 16.466
+    },
+    {
+      "day": "2021-10-08",
+      "temperature": 16.473
+    },
+    {
+      "day": "2021-10-09",
+      "temperature": 16.481
+    },
+    {
+      "day": "2021-10-10",
+      "temperature": 16.49
+    },
+    {
+      "day": "2021-10-11",
+      "temperature": 16.501
+    },
+    {
+      "day": "2021-10-12",
+      "temperature": 16.512
+    },
+    {
+      "day": "2021-10-13",
+      "temperature": 16.525
+    },
+    {
+      "day": "2021-10-14",
+      "temperature": 16.539
+    },
+    {
+      "day": "2021-10-15",
+      "temperature": 16.554
+    },
+    {
+      "day": "2021-10-16",
+      "temperature": 16.57
+    },
+    {
+      "day": "2021-10-17",
+      "temperature": 16.587
+    },
+    {
+      "day": "2021-10-18",
+      "temperature": 16.605
+    },
+    {
+      "day": "2021-10-19",
+      "temperature": 16.625
+    },
+    {
+      "day": "2021-10-20",
+      "temperature": 16.646
+    },
+    {
+      "day": "2021-10-21",
+      "temperature": 16.668
+    },
+    {
+      "day": "2021-10-22",
+      "temperature": 16.691
+    },
+    {
+      "day": "2021-10-23",
+      "temperature": 16.715
+    },
+    {
+      "day": "2021-10-24",
+      "temperature": 16.74
+    },
+    {
+      "day": "2021-10-25",
+      "temperature": 16.766
+    },
+    {
+      "day": "2021-10-26",
+      "temperature": 16.793
+    },
+    {
+      "day": "2021-10-27",
+      "temperature": 16.822
+    },
+    {
+      "day": "2021-10-28",
+      "temperature": 16.851
+    },
+    {
+      "day": "2021-10-29",
+      "temperature": 16.882
+    },
+    {
+      "day": "2021-10-30",
+      "temperature": 16.914
+    },
+    {
+      "day": "2021-10-31",
+      "temperature": 16.946
+    },
+    {
+      "day": "2021-11-01",
+      "temperature": 16.98
+    },
+    {
+      "day": "2021-11-02",
+      "temperature": 17.015
+    },
+    {
+      "day": "2021-11-03",
+      "temperature": 17.051
+    },
+    {
+      "day": "2021-11-04",
+      "temperature": 17.088
+    },
+    {
+      "day": "2021-11-05",
+      "temperature": 17.125
+    },
+    {
+      "day": "2021-11-06",
+      "temperature": 17.164
+    },
+    {
+      "day": "2021-11-07",
+      "temperature": 17.204
+    },
+    {
+      "day": "2021-11-08",
+      "temperature": 17.245
+    },
+    {
+      "day": "2021-11-09",
+      "temperature": 17.286
+    },
+    {
+      "day": "2021-11-10",
+      "temperature": 17.329
+    },
+    {
+      "day": "2021-11-11",
+      "temperature": 17.372
+    },
+    {
+      "day": "2021-11-12",
+      "temperature": 17.417
+    },
+    {
+      "day": "2021-11-13",
+      "temperature": 17.462
+    },
+    {
+      "day": "2021-11-14",
+      "temperature": 17.508
+    },
+    {
+      "day": "2021-11-15",
+      "temperature": 17.555
+    },
+    {
+      "day": "2021-11-16",
+      "temperature": 17.603
+    },
+    {
+      "day": "2021-11-17",
+      "temperature": 17.652
+    },
+    {
+      "day": "2021-11-18",
+      "temperature": 17.702
+    },
+    {
+      "day": "2021-11-19",
+      "temperature": 17.752
+    },
+    {
+      "day": "2021-11-20",
+      "temperature": 17.803
+    },
+    {
+      "day": "2021-11-21",
+      "temperature": 17.855
+    },
+    {
+      "day": "2021-11-22",
+      "temperature": 17.908
+    },
+    {
+      "day": "2021-11-23",
+      "temperature": 17.962
+    },
+    {
+      "day": "2021-11-24",
+      "temperature": 18.016
+    },
+    {
+      "day": "2021-11-25",
+      "temperature": 18.071
+    },
+    {
+      "day": "2021-11-26",
+      "temperature": 18.127
+    },
+    {
+      "day": "2021-11-27",
+      "temperature": 18.183
+    },
+    {
+      "day": "2021-11-28",
+      "temperature": 18.24
+    },
+    {
+      "day": "2021-11-29",
+      "temperature": 18.298
+    },
+    {
+      "day": "2021-11-30",
+      "temperature": 18.356
+    },
+    {
+      "day": "2021-12-01",
+      "temperature": 18.415
+    },
+    {
+      "day": "2021-12-02",
+      "temperature": 18.475
+    },
+    {
+      "day": "2021-12-03",
+      "temperature": 18.535
+    },
+    {
+      "day": "2021-12-04",
+      "temperature": 18.596
+    },
+    {
+      "day": "2021-12-05",
+      "temperature": 18.657
+    },
+    {
+      "day": "2021-12-06",
+      "temperature": 18.719
+    },
+    {
+      "day": "2021-12-07",
+      "temperature": 18.781
+    },
+    {
+      "day": "2021-12-08",
+      "temperature": 18.844
+    },
+    {
+      "day": "2021-12-09",
+      "temperature": 18.907
+    },
+    {
+      "day": "2021-12-10",
+      "temperature": 18.971
+    },
+    {
+      "day": "2021-12-11",
+      "temperature": 19.035
+    },
+    {
+      "day": "2021-12-12",
+      "temperature": 19.1
+    },
+    {
+      "day": "2021-12-13",
+      "temperature": 19.165
+    },
+    {
+      "day": "2021-12-14",
+      "temperature": 19.23
+    },
+    {
+      "day": "2021-12-15",
+      "temperature": 19.296
+    },
+    {
+      "day": "2021-12-16",
+      "temperature": 19.362
+    },
+    {
+      "day": "2021-12-17",
+      "temperature": 19.429
+    },
+    {
+      "day": "2021-12-18",
+      "temperature": 19.495
+    },
+    {
+      "day": "2021-12-19",
+      "temperature": 19.562
+    },
+    {
+      "day": "2021-12-20",
+      "temperature": 19.63
+    },
+    {
+      "day": "2021-12-21",
+      "temperature": 19.697
+    },
+    {
+      "day": "2021-12-22",
+      "temperature": 19.765
+    },
+    {
+      "day": "2021-12-23",
+      "temperature": 19.833
+    },
+    {
+      "day": "2021-12-24",
+      "temperature": 19.901
+    },
+    {
+      "day": "2021-12-25",
+      "temperature": 19.969
+    },
+    {
+      "day": "2021-12-26",
+      "temperature": 20.038
+    },
+    {
+      "day": "2021-12-27",
+      "temperature": 20.106
+    },
+    {
+      "day": "2021-12-28",
+      "temperature": 20.175
+    },
+    {
+      "day": "2021-12-29",
+      "temperature": 20.244
+    },
+    {
+      "day": "2021-12-30",
+      "temperature": 20.312
+    },
+    {
+      "day": "2021-12-31",
+      "temperature": 20.381
+    }
+  ],
+  "baseline_years": [
+    2018,
+    2019
+  ],
+  "window": 5,
+  "quantile": 0.9,
+  "min_samples": 15,
+  "smooth_width": 11,
+  "min_duration": 5,
+  "max_gap": 2,
+  "analysis_window": [
+    "2020-01-01",
+    "2021-12-31"
+  ],
+  "leave_one_year_out": false
+}
